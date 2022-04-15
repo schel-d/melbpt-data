@@ -1,0 +1,61 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "stops": {
+            "description": "An array of every stop in the network",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "The stop ID from the PTV API, e.g. 1153",
+                        "type": "integer"
+                    },
+                    "name": {
+                        "description": "The name of the stop, e.g. 'Pakenham'",
+                        "type": "string"
+                    },
+                    "adjacent": {
+                        "description": "An array of stops that are adjacent to this stop, e.g. Flagstaff and Parliament are adjacent to Melbourne Central",
+                        "type": "array",
+                        "items": {
+                            "description": "The stop ID from the PTV API, e.g. 1153",
+                            "type": "integer"
+                        },
+                        "minItems": 1
+                    },
+                    "urlName": {
+                        "description": "Becomes the path for the page specfic to this stop, e.g. 'pakenham' results in trainarrives.in/pakenham being reversed for this stop",
+                        "type": "string"
+                    },
+                    "platforms": {
+                        "description": "An array of platform names that this stop has, e.g. '1' and '2' for Pakenham",
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {
+                                    "description": "The name of the platform, e.g. '15a'",
+                                    "type": "string"
+                                },
+                                "rules": {
+                                    "description": "Logic for deciding platforms where they aren't known in the timetable (must match at least one rule in the array)",
+                                    "type": "array",
+                                    "items": {
+                                        "description": "A rule that matches a group of trains (must match all words), e.g. 'up' or 'up cyan'",
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "required": ["id"]
+                        },
+                        "minItems": 1
+                    }
+                },
+                "required": ["id", "name", "adjacent", "urlName", "platforms"]
+            }
+        }
+    },
+    "required": ["stops"]
+}

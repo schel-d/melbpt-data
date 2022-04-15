@@ -1,0 +1,83 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "lines": {
+            "description": "An array of every line in the network",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "description": "A unique ID for this line, e.g. 1. Has no relation to the PTV API, so pick whatever you like."
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "The name of the line, e.g. 'Pakenham'"
+                    },
+                    "service": {
+                        "type": "string",
+                        "description": "Either 'metro' or 'regional'",
+                        "enum": ["metro", "regional"]
+                    },
+                    "group": {
+                        "type": "string",
+                        "description": "The group of lines this line belongs to. Can be seen on the Victorian Train Network map as the line colors.",
+                        "enum": ["purple", "cyan", "green", "pink", "blue", "red", "yellow"]
+                    },
+                    "ptvRoutes": {
+                        "type": "array",
+                        "description": "An array of route IDs used by the PTV API, e.g. [11] for the Pakenham line",
+                        "items": {
+                            "type": "integer",
+                            "description": "The Route ID used by the PTV API, e.g. 11 for the Pakenham line"
+                        }
+                    },
+                    "type": {
+                        "type": "string",
+                        "description": "Either 'city-loop' or 'regular'",
+                        "enum": ["city-loop", "regular"]
+                    },
+                    "stops": {
+                        "type": "array",
+                        "description": "An array of stop IDs used in stops.json with the down terminus (e.g. Pakenham) first, e.g. [1153, 1223, ...] for the Pakenham line",
+                        "items": {
+                            "type": "integer",
+                            "description": "The stop ID used in stops.json, e.g. 1153 for Pakenham"
+                        }
+                    },
+                    "portal": {
+                        "type": "string",
+                        "description": "Either 'richmond', 'jolimont', or 'north-melbourne'",
+                        "enum": ["richmond", "jolimont", "north-melbourne"]
+                    },
+                    "regularStops": {
+                        "type": "array",
+                        "description": "An array of stop IDs used in stops.json, with the down terminus (e.g. Pakenham) first and city loop portal (e.g. Richmond) last. Do not include the five city loop stations. E.g. [1153, 1223, ...] for the Pakenham line",
+                        "items": {
+                            "type": "integer",
+                            "description": "The stop ID used in stops.json, e.g. 1153 for Pakenham"
+                        }
+                    }
+                },
+                "required": ["id", "name", "service", "group", "ptvRoutes", "type"],
+                "anyOf": [
+                    {
+                        "properties": {
+                            "type": { "const": "city-loop" }
+                        },
+                        "required": ["portal", "regularStops"]
+                    },
+                    {
+                        "properties": {
+                            "type": { "const": "regular" }
+                        },
+                        "required": ["stops"]
+                    }
+                ]
+            }
+        }
+    },
+    "required": [ "lines" ]
+}
