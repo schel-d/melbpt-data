@@ -3,6 +3,10 @@
     "v1": {
       "latest": "https://data.trainarrives.in/data/2022-04-15.zip",
       "backup": "https://data.trainarrives.in/data/2022-04-15.zip"
+    },
+    "v2": {
+      "latest": "https://data.trainarrives.in/data/2022-04-30.zip",
+      "backup": "https://data.trainarrives.in/data/2022-04-30.zip"
     }
   }
 }

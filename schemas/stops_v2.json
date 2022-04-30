@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "stops": {
+      "description": "An array of every stop in the network.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "description": "A unique identifier for this stop (may not match the ID used by the PTV API).",
+            "type": "integer"
+          },
+          "name": {
+            "description": "The display name of this stop.",
+            "type": "string"
+          },
+          "platforms": {
+            "description": "Data about the platforms at this stop.",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "description": "The unique identifier for this platform. Is only unique for this stop (i.e. all stops will likely have a platform with an ID of 1).",
+                  "type": "string"
+                },
+                "name": {
+                  "description": "The name of this platform, which should include the word \"platform\", e.g. \"Platform 1\".",
+                  "type": "string"
+                },
+                "rules": {
+                  "description": "A list of rules that determine which trains use this platform. Used to guess platforms for each service, since I can't find timetables containing this information, and at most stations it's pretty predictable anyway.",
+                  "type": "array",
+                  "items": {
+                    "description": "A rule that matches a group of trains (must match all terms), e.g. 'up' or 'up cyan'",
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "rules"
+              ]
+            },
+            "minItems": 1
+          },
+          "urlName": {
+            "description": "Generally the display name of the stop, all lowercase, minus the spaces. Should only contain a-z, and possibly 0-9. Should not be used to ID this stop, as it will change if the name changes, but can be expected to be unique.",
+            "type": "string"
+          },
+          "adjacent": {
+            "description": "A list of stops that are adjacent to this stop in any direction on any line. Useful for path finding between stops. Lines that run express between stops have no impact on adjacency, i.e. Clayton and Caulfield are not considered adjacent because there are other stops between those two, even though from a Gippsland line perspective they could be considered adjacent. Adjacency is best viewed on the Victorian Train Map.",
+            "type": "array",
+            "items": {
+              "description": "The ID of the adjacent stop",
+              "type": "integer"
+            },
+            "minItems": 1
+          },
+          "ptvID": {
+            "description": "The stop ID as used by the PTV API.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "platforms",
+          "urlName",
+          "adjacent",
+          "ptvID"
+        ]
+      }
+    }
+  },
+  "required": [
+    "stops"
+  ]
+}
