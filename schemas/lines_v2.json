@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "lines": {
+      "description": "An array of every line in the network.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "description": "A unique identifier for this line."
+          },
+          "name": {
+            "type": "string",
+            "description": "The display name of this line, without the word \"line\" in it, e.g. \"Pakenham\"."
+          },
+          "color": {
+            "type": "string",
+            "description": "The color that will be associated with this line. Tends to follow those used by PTV, e.g. \"cyan\" for the Pakenham line.",
+            "enum": [
+              "red",
+              "yellow",
+              "green",
+              "cyan",
+              "blue",
+              "purple",
+              "pink",
+              "grey"
+            ]
+          },
+          "service": {
+            "type": "string",
+            "description": "The type of service that runs on this line. Are these \"metro\" or \"regional\" trains?",
+            "enum": [
+              "metro",
+              "regional"
+            ]
+          },
+          "route": {
+            "type": "object",
+            "description": "Information about the route this line takes. Responsible for outlining which stops this line serves in each possible direction it runs in.",
+            "properties": {
+              "type": {
+                "type": "string",
+                "description": "The type of line route this is.",
+                "enum": [
+                  "linear",
+                  "city-loop",
+                  "branch"
+                ]
+              },
+              "stops": {
+                "type": "array",
+                "description": "The array of stops on this line, in order, starting with the down terminus (e.g. Pakenham) first. For city loop routes, this should end at (but include) the city loop portal (e.g. Richmond), the five city loop stations should not be included.",
+                "items": {
+                  "type": "integer",
+                  "description": "The stop ID matching those found in stops.json."
+                },
+                "minItems": 1
+              },
+              "portal": {
+                "type": "string",
+                "description": "The city loop portal this line uses.",
+                "enum": [
+                  "richmond",
+                  "jolimont",
+                  "north-melbourne"
+                ]
+              },
+              "branches": {
+                "type": "array",
+                "description": "Data for each branch this line can take, each with their own lists of stops and direction IDs.",
+                "items": {
+                  "type": "object",
+                  "description": "Data for a branch on this line.",
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "description": "The unique identifier for this branch, which becomes a prefix for the direction names, e.g. branch with id \"echuca\" runs in directions \"echuca-up\" and \"echuca-down\"."
+                    },
+                    "stops": {
+                      "type": "array",
+                      "description": "The stops in this branch, in order, from the down terminus (e.g. Echuca) all the way to the up terminus (e.g. Southern Cross). The branches don't solely contain their exclusive stops, but also the stops common to both branches.",
+                      "items": {
+                        "type": "integer",
+                        "description": "The stop ID matching those found in stops.json."
+                      },
+                      "minItems": 1
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "stops"
+                  ]
+                },
+                "minItems": 1
+              }
+            },
+            "required": [
+              "type"
+            ],
+            "anyOf": [
+              {
+                "properties": {
+                  "type": {
+                    "const": "linear"
+                  }
+                },
+                "required": [
+                  "stops"
+                ]
+              },
+              {
+                "properties": {
+                  "type": {
+                    "const": "city-loop"
+                  }
+                },
+                "required": [
+                  "portal",
+                  "stops"
+                ]
+              },
+              {
+                "properties": {
+                  "type": {
+                    "const": "branch"
+                  }
+                },
+                "required": [
+                  "branches"
+                ]
+              }
+            ]
+          },
+          "ptvRoutes": {
+            "type": "array",
+            "description": "One or more route IDs from the PTV API that represent this line.",
+            "items": {
+              "type": "integer",
+              "description": "A Route ID from the PTV API that represents this line."
+            },
+            "minItems": 1
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "color",
+          "service",
+          "route",
+          "ptvRoutes"
+        ]
+      }
+    }
+  },
+  "required": [
+    "lines"
+  ]
+}

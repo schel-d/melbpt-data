@@ -1,0 +1,8158 @@
+{
+  "$schema": "https://data.trainarrives.in/schemas/stops_v2.json",
+  "stops": [
+    {
+      "id": 1,
+      "name": "Aircraft",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "aircraft",
+      "adjacent": [
+        302,
+        157
+      ],
+      "ptvID": 1220
+    },
+    {
+      "id": 2,
+      "name": "Alamein",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "alamein",
+      "adjacent": [
+        12
+      ],
+      "ptvID": 1002
+    },
+    {
+      "id": 3,
+      "name": "Albion",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "albion",
+      "adjacent": [
+        263,
+        111
+      ],
+      "ptvID": 1003
+    },
+    {
+      "id": 4,
+      "name": "Albury",
+      "platforms": [
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "albury",
+      "adjacent": [
+        308
+      ],
+      "ptvID": 1500
+    },
+    {
+      "id": 5,
+      "name": "Alphington",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "alphington",
+      "adjacent": [
+        98,
+        75
+      ],
+      "ptvID": 1004
+    },
+    {
+      "id": 6,
+      "name": "Altona",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "altona",
+      "adjacent": [
+        301,
+        242
+      ],
+      "ptvID": 1005
+    },
+    {
+      "id": 7,
+      "name": "Anstey",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "anstey",
+      "adjacent": [
+        190,
+        41
+      ],
+      "ptvID": 1006
+    },
+    {
+      "id": 8,
+      "name": "Ararat",
+      "platforms": [
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "ararat",
+      "adjacent": [
+        25
+      ],
+      "ptvID": 1501
+    },
+    {
+      "id": 9,
+      "name": "Ardeer",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ardeer",
+      "adjacent": [
+        263,
+        77
+      ],
+      "ptvID": 1007
+    },
+    {
+      "id": 10,
+      "name": "Armadale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up cyan"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down cyan"
+          ]
+        }
+      ],
+      "urlName": "armadale",
+      "adjacent": [
+        167,
+        274
+      ],
+      "ptvID": 1008
+    },
+    {
+      "id": 11,
+      "name": "Ascot Vale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ascotvale",
+      "adjacent": [
+        185,
+        199
+      ],
+      "ptvID": 1009
+    },
+    {
+      "id": 12,
+      "name": "Ashburton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "ashburton",
+      "adjacent": [
+        2,
+        44
+      ],
+      "ptvID": 1010
+    },
+    {
+      "id": 13,
+      "name": "Aspendale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "aspendale",
+      "adjacent": [
+        189,
+        90
+      ],
+      "ptvID": 1011
+    },
+    {
+      "id": 14,
+      "name": "Auburn",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down lilydale",
+            "down belgrave"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "auburn",
+      "adjacent": [
+        45,
+        116
+      ],
+      "ptvID": 1012
+    },
+    {
+      "id": 15,
+      "name": "Avenel",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "avenel",
+      "adjacent": [
+        244,
+        97
+      ],
+      "ptvID": 1502
+    },
+    {
+      "id": 16,
+      "name": "Bacchus Marsh",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "bacchusmarsh",
+      "adjacent": [
+        19,
+        172
+      ],
+      "ptvID": 1503
+    },
+    {
+      "id": 17,
+      "name": "Bairnsdale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "bairnsdale",
+      "adjacent": [
+        260
+      ],
+      "ptvID": 1504
+    },
+    {
+      "id": 18,
+      "name": "Balaclava",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "balaclava",
+      "adjacent": [
+        228,
+        307
+      ],
+      "ptvID": 1013
+    },
+    {
+      "id": 19,
+      "name": "Ballan",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "ballan",
+      "adjacent": [
+        20,
+        16
+      ],
+      "ptvID": 1505
+    },
+    {
+      "id": 20,
+      "name": "Ballarat",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ballarat",
+      "adjacent": [
+        70,
+        19,
+        295
+      ],
+      "ptvID": 1506
+    },
+    {
+      "id": 21,
+      "name": "Batman",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "batman",
+      "adjacent": [
+        175,
+        63
+      ],
+      "ptvID": 1014
+    },
+    {
+      "id": 22,
+      "name": "Baxter",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "baxter",
+      "adjacent": [
+        158,
+        248
+      ],
+      "ptvID": 1015
+    },
+    {
+      "id": 23,
+      "name": "Bayswater",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "bayswater",
+      "adjacent": [
+        131,
+        36
+      ],
+      "ptvID": 1016
+    },
+    {
+      "id": 24,
+      "name": "Beaconsfield",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "beaconsfield",
+      "adjacent": [
+        212,
+        31
+      ],
+      "ptvID": 1017
+    },
+    {
+      "id": 25,
+      "name": "Beaufort",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "beaufort",
+      "adjacent": [
+        8,
+        295
+      ],
+      "ptvID": 1507
+    },
+    {
+      "id": 26,
+      "name": "Belgrave",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "belgrave",
+      "adjacent": [
+        270
+      ],
+      "ptvID": 1018
+    },
+    {
+      "id": 27,
+      "name": "Bell",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "bell",
+      "adjacent": [
+        273,
+        220
+      ],
+      "ptvID": 1019
+    },
+    {
+      "id": 28,
+      "name": "Benalla",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "benalla",
+      "adjacent": [
+        285,
+        288
+      ],
+      "ptvID": 1508
+    },
+    {
+      "id": 29,
+      "name": "Bendigo",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "bendigo",
+      "adjacent": [
+        95,
+        146,
+        84
+      ],
+      "ptvID": 1509
+    },
+    {
+      "id": 30,
+      "name": "Bentleigh",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "bentleigh",
+      "adjacent": [
+        170,
+        218
+      ],
+      "ptvID": 1020
+    },
+    {
+      "id": 31,
+      "name": "Berwick",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "berwick",
+      "adjacent": [
+        24,
+        198
+      ],
+      "ptvID": 1021
+    },
+    {
+      "id": 32,
+      "name": "Birregurra",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "birregurra",
+      "adjacent": [
+        64,
+        306
+      ],
+      "ptvID": 1510
+    },
+    {
+      "id": 33,
+      "name": "Bittern",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "bittern",
+      "adjacent": [
+        125,
+        191
+      ],
+      "ptvID": 1022
+    },
+    {
+      "id": 34,
+      "name": "Blackburn",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "blackburn",
+      "adjacent": [
+        154,
+        209
+      ],
+      "ptvID": 1023
+    },
+    {
+      "id": 35,
+      "name": "Bonbeach",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "bonbeach",
+      "adjacent": [
+        55,
+        51
+      ],
+      "ptvID": 1024
+    },
+    {
+      "id": 36,
+      "name": "Boronia",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "boronia",
+      "adjacent": [
+        23,
+        100
+      ],
+      "ptvID": 1025
+    },
+    {
+      "id": 37,
+      "name": "Box Hill",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "none"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": []
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "boxhill",
+      "adjacent": [
+        183,
+        154
+      ],
+      "ptvID": 1026
+    },
+    {
+      "id": 38,
+      "name": "Brighton Beach",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "none"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "brightonbeach",
+      "adjacent": [
+        123,
+        178
+      ],
+      "ptvID": 1027
+    },
+    {
+      "id": 39,
+      "name": "Broadford",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "broadford",
+      "adjacent": [
+        151,
+        268
+      ],
+      "ptvID": 1511
+    },
+    {
+      "id": 40,
+      "name": "Broadmeadows",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up !albury"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down !albury"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "albury"
+          ]
+        }
+      ],
+      "urlName": "broadmeadows",
+      "adjacent": [
+        66,
+        141
+      ],
+      "ptvID": 1028
+    },
+    {
+      "id": 41,
+      "name": "Brunswick",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "brunswick",
+      "adjacent": [
+        7,
+        142
+      ],
+      "ptvID": 1029
+    },
+    {
+      "id": 42,
+      "name": "Bunyip",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "bunyip",
+      "adjacent": [
+        161,
+        109
+      ],
+      "ptvID": 1512
+    },
+    {
+      "id": 43,
+      "name": "Burnley",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "burnley",
+      "adjacent": [
+        88,
+        133,
+        128
+      ],
+      "ptvID": 1030
+    },
+    {
+      "id": 44,
+      "name": "Burwood",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "burwood",
+      "adjacent": [
+        12,
+        124
+      ],
+      "ptvID": 1031
+    },
+    {
+      "id": 45,
+      "name": "Camberwell",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up !alamein",
+            "alamein !terminates-at-1032"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "belgrave",
+            "lilydale",
+            "alamein terminates-at-1032"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "camberwell",
+      "adjacent": [
+        229,
+        14,
+        86
+      ],
+      "ptvID": 1032
+    },
+    {
+      "id": 46,
+      "name": "Camperdown",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "camperdown",
+      "adjacent": [
+        271,
+        64
+      ],
+      "ptvID": 1513
+    },
+    {
+      "id": 47,
+      "name": "Canterbury",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "canterbury",
+      "adjacent": [
+        86,
+        54
+      ],
+      "ptvID": 1033
+    },
+    {
+      "id": 48,
+      "name": "Cardinia Road",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "cardiniaroad",
+      "adjacent": [
+        214,
+        212
+      ],
+      "ptvID": 1223
+    },
+    {
+      "id": 49,
+      "name": "Carnegie",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "carnegie",
+      "adjacent": [
+        195,
+        53
+      ],
+      "ptvID": 1034
+    },
+    {
+      "id": 50,
+      "name": "Caroline Springs",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "carolinesprings",
+      "adjacent": [
+        231,
+        77
+      ],
+      "ptvID": 1601
+    },
+    {
+      "id": 51,
+      "name": "Carrum",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "carrum",
+      "adjacent": [
+        35,
+        241
+      ],
+      "ptvID": 1035
+    },
+    {
+      "id": 52,
+      "name": "Castlemaine",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "castlemaine",
+      "adjacent": [
+        146,
+        166
+      ],
+      "ptvID": 1514
+    },
+    {
+      "id": 53,
+      "name": "Caulfield",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up cyan",
+            "up purple"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down cyan",
+            "down purple"
+          ]
+        }
+      ],
+      "urlName": "caulfield",
+      "adjacent": [
+        49,
+        167,
+        117
+      ],
+      "ptvID": 1036
+    },
+    {
+      "id": 54,
+      "name": "Chatham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "chatham",
+      "adjacent": [
+        47,
+        264
+      ],
+      "ptvID": 1037
+    },
+    {
+      "id": 55,
+      "name": "Chelsea",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "chelsea",
+      "adjacent": [
+        90,
+        35
+      ],
+      "ptvID": 1038
+    },
+    {
+      "id": 56,
+      "name": "Cheltenham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "cheltenham",
+      "adjacent": [
+        254,
+        173
+      ],
+      "ptvID": 1039
+    },
+    {
+      "id": 57,
+      "name": "Chiltern",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "chiltern",
+      "adjacent": [
+        256,
+        308
+      ],
+      "ptvID": 1515
+    },
+    {
+      "id": 58,
+      "name": "Clarkefield",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "clarkefield",
+      "adjacent": [
+        262,
+        225
+      ],
+      "ptvID": 1516
+    },
+    {
+      "id": 59,
+      "name": "Clayton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "clayton",
+      "adjacent": [
+        299,
+        138
+      ],
+      "ptvID": 1040
+    },
+    {
+      "id": 60,
+      "name": "Clifton Hill",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "cliftonhill",
+      "adjacent": [
+        284,
+        236,
+        300
+      ],
+      "ptvID": 1041
+    },
+    {
+      "id": 61,
+      "name": "Clunes",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "clunes",
+      "adjacent": [
+        267,
+        70
+      ],
+      "ptvID": 1591
+    },
+    {
+      "id": 62,
+      "name": "Cobblebank",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "cobblebank",
+      "adjacent": [
+        172,
+        231
+      ],
+      "ptvID": 1605
+    },
+    {
+      "id": 63,
+      "name": "Coburg",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "coburg",
+      "adjacent": [
+        21,
+        190
+      ],
+      "ptvID": 1042
+    },
+    {
+      "id": 64,
+      "name": "Colac",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "colac",
+      "adjacent": [
+        46,
+        32
+      ],
+      "ptvID": 1517
+    },
+    {
+      "id": 65,
+      "name": "Collingwood",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "collingwood",
+      "adjacent": [
+        205,
+        284
+      ],
+      "ptvID": 1043
+    },
+    {
+      "id": 66,
+      "name": "Coolaroo",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "coolaroo",
+      "adjacent": [
+        234,
+        40
+      ],
+      "ptvID": 1221
+    },
+    {
+      "id": 67,
+      "name": "Corio",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "corio",
+      "adjacent": [
+        206,
+        156
+      ],
+      "ptvID": 1518
+    },
+    {
+      "id": 68,
+      "name": "Craigieburn",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "yellow",
+            "purple"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down purple",
+            "yellow"
+          ]
+        }
+      ],
+      "urlName": "craigieburn",
+      "adjacent": [
+        234,
+        82
+      ],
+      "ptvID": 1044
+    },
+    {
+      "id": 69,
+      "name": "Cranbourne",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "cranbourne",
+      "adjacent": [
+        174
+      ],
+      "ptvID": 1045
+    },
+    {
+      "id": 70,
+      "name": "Creswick",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "creswick",
+      "adjacent": [
+        61,
+        20
+      ],
+      "ptvID": 1590
+    },
+    {
+      "id": 71,
+      "name": "Crib Point",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "cribpoint",
+      "adjacent": [
+        191,
+        259
+      ],
+      "ptvID": 1046
+    },
+    {
+      "id": 72,
+      "name": "Croxton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "croxton",
+      "adjacent": [
+        208,
+        273
+      ],
+      "ptvID": 1047
+    },
+    {
+      "id": 73,
+      "name": "Croydon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "croydon",
+      "adjacent": [
+        227,
+        187
+      ],
+      "ptvID": 1048
+    },
+    {
+      "id": 74,
+      "name": "Dandenong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": []
+        }
+      ],
+      "urlName": "dandenong",
+      "adjacent": [
+        122,
+        312,
+        162
+      ],
+      "ptvID": 1049
+    },
+    {
+      "id": 75,
+      "name": "Darebin",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "darebin",
+      "adjacent": [
+        5,
+        140
+      ],
+      "ptvID": 1050
+    },
+    {
+      "id": 76,
+      "name": "Darling",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "darling",
+      "adjacent": [
+        113,
+        87
+      ],
+      "ptvID": 1051
+    },
+    {
+      "id": 77,
+      "name": "Deer Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "deerpark",
+      "adjacent": [
+        50,
+        9,
+        269
+      ],
+      "ptvID": 1052
+    },
+    {
+      "id": 78,
+      "name": "Dennis",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "dennis",
+      "adjacent": [
+        300,
+        98
+      ],
+      "ptvID": 1053
+    },
+    {
+      "id": 79,
+      "name": "Diamond Creek",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "diamondcreek",
+      "adjacent": [
+        93,
+        293
+      ],
+      "ptvID": 1054
+    },
+    {
+      "id": 80,
+      "name": "Diggers Rest",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "diggersrest",
+      "adjacent": [
+        291,
+        262
+      ],
+      "ptvID": 1055
+    },
+    {
+      "id": 81,
+      "name": "Dingee",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "dingee",
+      "adjacent": [
+        221,
+        84
+      ],
+      "ptvID": 1519
+    },
+    {
+      "id": 82,
+      "name": "Donnybrook",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "donnybrook",
+      "adjacent": [
+        68,
+        286
+      ],
+      "ptvID": 1520
+    },
+    {
+      "id": 83,
+      "name": "Drouin",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "drouin",
+      "adjacent": [
+        289,
+        161
+      ],
+      "ptvID": 1521
+    },
+    {
+      "id": 84,
+      "name": "Eaglehawk",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "eaglehawk",
+      "adjacent": [
+        29,
+        81
+      ],
+      "ptvID": 1522
+    },
+    {
+      "id": 85,
+      "name": "Eaglemont",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "eaglemont",
+      "adjacent": [
+        140,
+        132
+      ],
+      "ptvID": 1056
+    },
+    {
+      "id": 86,
+      "name": "East Camberwell",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "eastcamberwell",
+      "adjacent": [
+        45,
+        47
+      ],
+      "ptvID": 1057
+    },
+    {
+      "id": 87,
+      "name": "East Malvern",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "eastmalvern",
+      "adjacent": [
+        76,
+        135
+      ],
+      "ptvID": 1058
+    },
+    {
+      "id": 88,
+      "name": "East Richmond",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "eastrichmond",
+      "adjacent": [
+        224,
+        43
+      ],
+      "ptvID": 1059
+    },
+    {
+      "id": 89,
+      "name": "Echuca",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "echuca",
+      "adjacent": [
+        230
+      ],
+      "ptvID": 1523
+    },
+    {
+      "id": 90,
+      "name": "Edithvale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "edithvale",
+      "adjacent": [
+        13,
+        55
+      ],
+      "ptvID": 1060
+    },
+    {
+      "id": 91,
+      "name": "Elmore",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "elmore",
+      "adjacent": [
+        230,
+        119
+      ],
+      "ptvID": 1524
+    },
+    {
+      "id": 92,
+      "name": "Elsternwick",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "elsternwick",
+      "adjacent": [
+        107,
+        228
+      ],
+      "ptvID": 1061
+    },
+    {
+      "id": 93,
+      "name": "Eltham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "eltham",
+      "adjacent": [
+        184,
+        79
+      ],
+      "ptvID": 1062
+    },
+    {
+      "id": 94,
+      "name": "Epping",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "epping",
+      "adjacent": [
+        155,
+        251
+      ],
+      "ptvID": 1063
+    },
+    {
+      "id": 95,
+      "name": "Epsom",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "epsom",
+      "adjacent": [
+        119,
+        29
+      ],
+      "ptvID": 1597
+    },
+    {
+      "id": 96,
+      "name": "Essendon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "none"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "essendon",
+      "adjacent": [
+        115,
+        185
+      ],
+      "ptvID": 1064
+    },
+    {
+      "id": 97,
+      "name": "Euroa",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "euroa",
+      "adjacent": [
+        15,
+        285
+      ],
+      "ptvID": 1525
+    },
+    {
+      "id": 98,
+      "name": "Fairfield",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "fairfield",
+      "adjacent": [
+        78,
+        5
+      ],
+      "ptvID": 1065
+    },
+    {
+      "id": 99,
+      "name": "Fawkner",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "fawkner",
+      "adjacent": [
+        120,
+        175
+      ],
+      "ptvID": 1066
+    },
+    {
+      "id": 100,
+      "name": "Ferntree Gully",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ferntreegully",
+      "adjacent": [
+        36,
+        282
+      ],
+      "ptvID": 1067
+    },
+    {
+      "id": 101,
+      "name": "Flagstaff",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "red"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "cyan"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "yellow"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "blue"
+          ]
+        }
+      ],
+      "urlName": "flagstaff",
+      "adjacent": [
+        171,
+        253,
+        204
+      ],
+      "ptvID": 1068
+    },
+    {
+      "id": 102,
+      "name": "Flemington Bridge",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "flemingtonbridge",
+      "adjacent": [
+        235,
+        163
+      ],
+      "ptvID": 1069
+    },
+    {
+      "id": 103,
+      "name": "Flemington Racecourse",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "flemingtonracecourse",
+      "adjacent": [
+        247
+      ],
+      "ptvID": 1070
+    },
+    {
+      "id": 104,
+      "name": "Flinders Street",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": []
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": []
+        },
+        {
+          "id": "5",
+          "name": "Platform 5",
+          "rules": []
+        },
+        {
+          "id": "6",
+          "name": "Platform 6",
+          "rules": []
+        },
+        {
+          "id": "7",
+          "name": "Platform 7",
+          "rules": []
+        },
+        {
+          "id": "8",
+          "name": "Platform 8",
+          "rules": []
+        },
+        {
+          "id": "9",
+          "name": "Platform 9",
+          "rules": []
+        },
+        {
+          "id": "10",
+          "name": "Platform 10",
+          "rules": []
+        },
+        {
+          "id": "12",
+          "name": "Platform 12",
+          "rules": []
+        },
+        {
+          "id": "13",
+          "name": "Platform 13",
+          "rules": []
+        },
+        {
+          "id": "14",
+          "name": "Platform 14",
+          "rules": []
+        }
+      ],
+      "urlName": "flindersstreet",
+      "adjacent": [
+        253,
+        224,
+        143,
+        216
+      ],
+      "ptvID": 1071
+    },
+    {
+      "id": 105,
+      "name": "Footscray",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up yellow"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down yellow"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up purple"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down purple"
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Platform 5",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Platform 6",
+          "rules": [
+            "down green"
+          ]
+        }
+      ],
+      "urlName": "footscray",
+      "adjacent": [
+        250,
+        243,
+        179
+      ],
+      "ptvID": 1072
+    },
+    {
+      "id": 106,
+      "name": "Frankston",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "frankston"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "frankston"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "stony-point"
+          ]
+        }
+      ],
+      "urlName": "frankston",
+      "adjacent": [
+        145,
+        158
+      ],
+      "ptvID": 1073
+    },
+    {
+      "id": 107,
+      "name": "Gardenvale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "gardenvale",
+      "adjacent": [
+        202,
+        92
+      ],
+      "ptvID": 1074
+    },
+    {
+      "id": 108,
+      "name": "Gardiner",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "gardiner",
+      "adjacent": [
+        275,
+        113
+      ],
+      "ptvID": 1075
+    },
+    {
+      "id": 109,
+      "name": "Garfield",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "garfield",
+      "adjacent": [
+        42,
+        280
+      ],
+      "ptvID": 1526
+    },
+    {
+      "id": 110,
+      "name": "Geelong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": []
+        }
+      ],
+      "urlName": "geelong",
+      "adjacent": [
+        249,
+        203
+      ],
+      "ptvID": 1527
+    },
+    {
+      "id": 111,
+      "name": "Ginifer",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ginifer",
+      "adjacent": [
+        3,
+        258
+      ],
+      "ptvID": 1076
+    },
+    {
+      "id": 112,
+      "name": "Gisborne",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "gisborne",
+      "adjacent": [
+        164,
+        225
+      ],
+      "ptvID": 1528
+    },
+    {
+      "id": 113,
+      "name": "Glen Iris",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "gleniris",
+      "adjacent": [
+        108,
+        76
+      ],
+      "ptvID": 1077
+    },
+    {
+      "id": 114,
+      "name": "Glen Waverley",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "glenwaverley",
+      "adjacent": [
+        266
+      ],
+      "ptvID": 1078
+    },
+    {
+      "id": 115,
+      "name": "Glenbervie",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "glenbervie",
+      "adjacent": [
+        261,
+        96
+      ],
+      "ptvID": 1079
+    },
+    {
+      "id": 116,
+      "name": "Glenferrie",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "lilydale down weekend",
+            "belgrave down weekend",
+            "lilydale up weekday",
+            "belgrave up weekday"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "glenferrie",
+      "adjacent": [
+        14,
+        128
+      ],
+      "ptvID": 1080
+    },
+    {
+      "id": 117,
+      "name": "Glenhuntly",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "glenhuntly",
+      "adjacent": [
+        53,
+        213
+      ],
+      "ptvID": 1081
+    },
+    {
+      "id": 118,
+      "name": "Glenroy",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "glenroy",
+      "adjacent": [
+        141,
+        210
+      ],
+      "ptvID": 1082
+    },
+    {
+      "id": 119,
+      "name": "Goornong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "goornong",
+      "adjacent": [
+        91,
+        95
+      ],
+      "ptvID": 1616
+    },
+    {
+      "id": 120,
+      "name": "Gowrie",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "gowrie",
+      "adjacent": [
+        281,
+        99
+      ],
+      "ptvID": 1083
+    },
+    {
+      "id": 121,
+      "name": "Greensborough",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "greensborough",
+      "adjacent": [
+        292,
+        184
+      ],
+      "ptvID": 1084
+    },
+    {
+      "id": 122,
+      "name": "Hallam",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "hallam",
+      "adjacent": [
+        198,
+        74
+      ],
+      "ptvID": 1085
+    },
+    {
+      "id": 123,
+      "name": "Hampton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "hampton",
+      "adjacent": [
+        240,
+        38
+      ],
+      "ptvID": 1086
+    },
+    {
+      "id": 124,
+      "name": "Hartwell",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "hartwell",
+      "adjacent": [
+        44,
+        305
+      ],
+      "ptvID": 1087
+    },
+    {
+      "id": 125,
+      "name": "Hastings",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "hastings",
+      "adjacent": [
+        279,
+        33
+      ],
+      "ptvID": 1088
+    },
+    {
+      "id": 126,
+      "name": "Hawksburn",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up cyan"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down cyan"
+          ]
+        }
+      ],
+      "urlName": "hawksburn",
+      "adjacent": [
+        274,
+        252
+      ],
+      "ptvID": 1089
+    },
+    {
+      "id": 127,
+      "name": "Hawkstowe",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "hawkstowe",
+      "adjacent": [
+        180,
+        176
+      ],
+      "ptvID": 1227
+    },
+    {
+      "id": 128,
+      "name": "Hawthorn",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down lilydale",
+            "down belgrave"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down alamein",
+            "down lilydale weekday",
+            "down belgrave weekday"
+          ]
+        }
+      ],
+      "urlName": "hawthorn",
+      "adjacent": [
+        116,
+        43
+      ],
+      "ptvID": 1090
+    },
+    {
+      "id": 129,
+      "name": "Heathcote Junction",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "heathcotejunction",
+      "adjacent": [
+        286,
+        287
+      ],
+      "ptvID": 1529
+    },
+    {
+      "id": 130,
+      "name": "Heatherdale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "heatherdale",
+      "adjacent": [
+        181,
+        226
+      ],
+      "ptvID": 1091
+    },
+    {
+      "id": 131,
+      "name": "Heathmont",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "heathmont",
+      "adjacent": [
+        226,
+        23
+      ],
+      "ptvID": 1092
+    },
+    {
+      "id": 132,
+      "name": "Heidelberg",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "heidelberg",
+      "adjacent": [
+        85,
+        232
+      ],
+      "ptvID": 1093
+    },
+    {
+      "id": 133,
+      "name": "Heyington",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "heyington",
+      "adjacent": [
+        43,
+        152
+      ],
+      "ptvID": 1094
+    },
+    {
+      "id": 134,
+      "name": "Highett",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "highett",
+      "adjacent": [
+        186,
+        254
+      ],
+      "ptvID": 1095
+    },
+    {
+      "id": 135,
+      "name": "Holmesglen",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "holmesglen",
+      "adjacent": [
+        87,
+        144
+      ],
+      "ptvID": 1096
+    },
+    {
+      "id": 136,
+      "name": "Hoppers Crossing",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "hopperscrossing",
+      "adjacent": [
+        296,
+        302
+      ],
+      "ptvID": 1097
+    },
+    {
+      "id": 137,
+      "name": "Hughesdale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "hughesdale",
+      "adjacent": [
+        211,
+        195
+      ],
+      "ptvID": 1098
+    },
+    {
+      "id": 138,
+      "name": "Huntingdale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "huntingdale",
+      "adjacent": [
+        59,
+        211
+      ],
+      "ptvID": 1099
+    },
+    {
+      "id": 139,
+      "name": "Hurstbridge",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "hurstbridge",
+      "adjacent": [
+        293
+      ],
+      "ptvID": 1100
+    },
+    {
+      "id": 140,
+      "name": "Ivanhoe",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ivanhoe",
+      "adjacent": [
+        75,
+        85
+      ],
+      "ptvID": 1101
+    },
+    {
+      "id": 141,
+      "name": "Jacana",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "jacana",
+      "adjacent": [
+        40,
+        118
+      ],
+      "ptvID": 1102
+    },
+    {
+      "id": 142,
+      "name": "Jewell",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "jewell",
+      "adjacent": [
+        41,
+        235
+      ],
+      "ptvID": 1103
+    },
+    {
+      "id": 143,
+      "name": "Jolimont",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "jolimont",
+      "adjacent": [
+        104,
+        216,
+        298
+      ],
+      "ptvID": 1104
+    },
+    {
+      "id": 144,
+      "name": "Jordanville",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "jordanville",
+      "adjacent": [
+        135,
+        193
+      ],
+      "ptvID": 1105
+    },
+    {
+      "id": 145,
+      "name": "Kananook",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "kananook",
+      "adjacent": [
+        241,
+        106
+      ],
+      "ptvID": 1106
+    },
+    {
+      "id": 146,
+      "name": "Kangaroo Flat",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "kangarooflat",
+      "adjacent": [
+        29,
+        52
+      ],
+      "ptvID": 1530
+    },
+    {
+      "id": 147,
+      "name": "Keilor Plains",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "keilorplains",
+      "adjacent": [
+        258,
+        291
+      ],
+      "ptvID": 1107
+    },
+    {
+      "id": 148,
+      "name": "Kensington",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "kensington",
+      "adjacent": [
+        204,
+        199
+      ],
+      "ptvID": 1108
+    },
+    {
+      "id": 149,
+      "name": "Keon Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "keonpark",
+      "adjacent": [
+        237,
+        272
+      ],
+      "ptvID": 1109
+    },
+    {
+      "id": 150,
+      "name": "Kerang",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "kerang",
+      "adjacent": [
+        265,
+        221
+      ],
+      "ptvID": 1531
+    },
+    {
+      "id": 151,
+      "name": "Kilmore East",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "kilmoreeast",
+      "adjacent": [
+        287,
+        39
+      ],
+      "ptvID": 1532
+    },
+    {
+      "id": 152,
+      "name": "Kooyong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "kooyong",
+      "adjacent": [
+        133,
+        275
+      ],
+      "ptvID": 1110
+    },
+    {
+      "id": 153,
+      "name": "Kyneton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "kyneton",
+      "adjacent": [
+        166,
+        309
+      ],
+      "ptvID": 1533
+    },
+    {
+      "id": 154,
+      "name": "Laburnum",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "laburnum",
+      "adjacent": [
+        37,
+        34
+      ],
+      "ptvID": 1111
+    },
+    {
+      "id": 155,
+      "name": "Lalor",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "lalor",
+      "adjacent": [
+        272,
+        94
+      ],
+      "ptvID": 1112
+    },
+    {
+      "id": 156,
+      "name": "Lara",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "lara",
+      "adjacent": [
+        67,
+        160
+      ],
+      "ptvID": 1534
+    },
+    {
+      "id": 157,
+      "name": "Laverton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up !stops-at-1005"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down",
+            "stops-at-1005"
+          ]
+        }
+      ],
+      "urlName": "laverton",
+      "adjacent": [
+        1,
+        301
+      ],
+      "ptvID": 1113
+    },
+    {
+      "id": 158,
+      "name": "Leawarra",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "leawarra",
+      "adjacent": [
+        106,
+        22
+      ],
+      "ptvID": 1114
+    },
+    {
+      "id": 159,
+      "name": "Lilydale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "lilydale",
+      "adjacent": [
+        187
+      ],
+      "ptvID": 1115
+    },
+    {
+      "id": 160,
+      "name": "Little River",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "littleriver",
+      "adjacent": [
+        156,
+        310
+      ],
+      "ptvID": 1535
+    },
+    {
+      "id": 161,
+      "name": "Longwarry",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "longwarry",
+      "adjacent": [
+        83,
+        42
+      ],
+      "ptvID": 1536
+    },
+    {
+      "id": 162,
+      "name": "Lynbrook",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "lynbrook",
+      "adjacent": [
+        174,
+        74
+      ],
+      "ptvID": 1222
+    },
+    {
+      "id": 163,
+      "name": "Macaulay",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "macaulay",
+      "adjacent": [
+        102,
+        204
+      ],
+      "ptvID": 1116
+    },
+    {
+      "id": 164,
+      "name": "Macedon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "macedon",
+      "adjacent": [
+        309,
+        112
+      ],
+      "ptvID": 1537
+    },
+    {
+      "id": 165,
+      "name": "Macleod",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up !originates-at-1117"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down !terminates-at-1117"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "terminates-at-1117 originates-at-1117"
+          ]
+        }
+      ],
+      "urlName": "macleod",
+      "adjacent": [
+        232,
+        292
+      ],
+      "ptvID": 1117
+    },
+    {
+      "id": 166,
+      "name": "Malmsbury",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "malmsbury",
+      "adjacent": [
+        52,
+        153
+      ],
+      "ptvID": 1538
+    },
+    {
+      "id": 167,
+      "name": "Malvern",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up cyan"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down cyan"
+          ]
+        }
+      ],
+      "urlName": "malvern",
+      "adjacent": [
+        53,
+        10
+      ],
+      "ptvID": 1118
+    },
+    {
+      "id": 168,
+      "name": "Marshall",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "marshall",
+      "adjacent": [
+        294,
+        249
+      ],
+      "ptvID": 1539
+    },
+    {
+      "id": 169,
+      "name": "Maryborough",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "maryborough",
+      "adjacent": [
+        267
+      ],
+      "ptvID": 1592
+    },
+    {
+      "id": 170,
+      "name": "McKinnon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mckinnon",
+      "adjacent": [
+        213,
+        30
+      ],
+      "ptvID": 1119
+    },
+    {
+      "id": 171,
+      "name": "Melbourne Central",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "red"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "cyan"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "yellow"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "blue"
+          ]
+        }
+      ],
+      "urlName": "melbournecentral",
+      "adjacent": [
+        101,
+        216
+      ],
+      "ptvID": 1120
+    },
+    {
+      "id": 172,
+      "name": "Melton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "melton",
+      "adjacent": [
+        16,
+        62
+      ],
+      "ptvID": 1121
+    },
+    {
+      "id": 173,
+      "name": "Mentone",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mentone",
+      "adjacent": [
+        56,
+        215
+      ],
+      "ptvID": 1122
+    },
+    {
+      "id": 174,
+      "name": "Merinda Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "merindapark",
+      "adjacent": [
+        69,
+        162
+      ],
+      "ptvID": 1123
+    },
+    {
+      "id": 175,
+      "name": "Merlynston",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "merlynston",
+      "adjacent": [
+        99,
+        21
+      ],
+      "ptvID": 1124
+    },
+    {
+      "id": 176,
+      "name": "Mernda",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "mernda",
+      "adjacent": [
+        127
+      ],
+      "ptvID": 1228
+    },
+    {
+      "id": 177,
+      "name": "Merri",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "merri",
+      "adjacent": [
+        236,
+        208
+      ],
+      "ptvID": 1125
+    },
+    {
+      "id": 178,
+      "name": "Middle Brighton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "middlebrighton",
+      "adjacent": [
+        38,
+        202
+      ],
+      "ptvID": 1126
+    },
+    {
+      "id": 179,
+      "name": "Middle Footscray",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "middlefootscray",
+      "adjacent": [
+        105,
+        297
+      ],
+      "ptvID": 1127
+    },
+    {
+      "id": 180,
+      "name": "Middle Gorge",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "middlegorge",
+      "adjacent": [
+        251,
+        127
+      ],
+      "ptvID": 1226
+    },
+    {
+      "id": 181,
+      "name": "Mitcham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mitcham",
+      "adjacent": [
+        209,
+        130
+      ],
+      "ptvID": 1128
+    },
+    {
+      "id": 182,
+      "name": "Moe",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "moe",
+      "adjacent": [
+        192,
+        277
+      ],
+      "ptvID": 1540
+    },
+    {
+      "id": 183,
+      "name": "Mont Albert",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "montalbert",
+      "adjacent": [
+        264,
+        37
+      ],
+      "ptvID": 1129
+    },
+    {
+      "id": 184,
+      "name": "Montmorency",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "montmorency",
+      "adjacent": [
+        121,
+        93
+      ],
+      "ptvID": 1130
+    },
+    {
+      "id": 185,
+      "name": "Moonee Ponds",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mooneeponds",
+      "adjacent": [
+        96,
+        11
+      ],
+      "ptvID": 1131
+    },
+    {
+      "id": 186,
+      "name": "Moorabbin",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "moorabbin",
+      "adjacent": [
+        218,
+        134
+      ],
+      "ptvID": 1132
+    },
+    {
+      "id": 187,
+      "name": "Mooroolbark",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mooroolbark",
+      "adjacent": [
+        73,
+        159
+      ],
+      "ptvID": 1133
+    },
+    {
+      "id": 188,
+      "name": "Mooroopna",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "mooroopna",
+      "adjacent": [
+        194,
+        245
+      ],
+      "ptvID": 1541
+    },
+    {
+      "id": 189,
+      "name": "Mordialloc",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mordialloc",
+      "adjacent": [
+        215,
+        13
+      ],
+      "ptvID": 1134
+    },
+    {
+      "id": 190,
+      "name": "Moreland",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "moreland",
+      "adjacent": [
+        63,
+        7
+      ],
+      "ptvID": 1135
+    },
+    {
+      "id": 191,
+      "name": "Morradoo",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "morradoo",
+      "adjacent": [
+        33,
+        71
+      ],
+      "ptvID": 1136
+    },
+    {
+      "id": 192,
+      "name": "Morwell",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "morwell",
+      "adjacent": [
+        278,
+        182
+      ],
+      "ptvID": 1542
+    },
+    {
+      "id": 193,
+      "name": "Mount Waverley",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "mountwaverley",
+      "adjacent": [
+        144,
+        266
+      ],
+      "ptvID": 1137
+    },
+    {
+      "id": 194,
+      "name": "Murchison East",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "murchisoneast",
+      "adjacent": [
+        196,
+        188
+      ],
+      "ptvID": 1543
+    },
+    {
+      "id": 195,
+      "name": "Murrumbeena",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "murrumbeena",
+      "adjacent": [
+        137,
+        49
+      ],
+      "ptvID": 1138
+    },
+    {
+      "id": 196,
+      "name": "Nagambie",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "nagambie",
+      "adjacent": [
+        194,
+        244
+      ],
+      "ptvID": 1544
+    },
+    {
+      "id": 197,
+      "name": "Nar Nar Goon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "narnargoon",
+      "adjacent": [
+        280,
+        214
+      ],
+      "ptvID": 1545
+    },
+    {
+      "id": 198,
+      "name": "Narre Warren",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "narrewarren",
+      "adjacent": [
+        31,
+        122
+      ],
+      "ptvID": 1139
+    },
+    {
+      "id": 199,
+      "name": "Newmarket",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "newmarket",
+      "adjacent": [
+        11,
+        148,
+        247
+      ],
+      "ptvID": 1140
+    },
+    {
+      "id": 200,
+      "name": "Newport",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "newport",
+      "adjacent": [
+        255,
+        207,
+        242
+      ],
+      "ptvID": 1141
+    },
+    {
+      "id": 201,
+      "name": "Noble Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "noblepark",
+      "adjacent": [
+        312,
+        239
+      ],
+      "ptvID": 1142
+    },
+    {
+      "id": 202,
+      "name": "North Brighton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "northbrighton",
+      "adjacent": [
+        178,
+        107
+      ],
+      "ptvID": 1143
+    },
+    {
+      "id": 203,
+      "name": "North Geelong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "northgeelong",
+      "adjacent": [
+        110,
+        206
+      ],
+      "ptvID": 1546
+    },
+    {
+      "id": 204,
+      "name": "North Melbourne",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up craigieburn",
+            "up upfield"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down craigieburn",
+            "down upfield"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up sunbury"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down sunbury"
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Platform 5",
+          "rules": [
+            "up craigieburn",
+            "up green"
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Platform 6",
+          "rules": [
+            "down craigieburn",
+            "down green"
+          ]
+        }
+      ],
+      "urlName": "northmelbourne",
+      "adjacent": [
+        253,
+        101,
+        250,
+        163,
+        148
+      ],
+      "ptvID": 1144
+    },
+    {
+      "id": 205,
+      "name": "North Richmond",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "northrichmond",
+      "adjacent": [
+        298,
+        65
+      ],
+      "ptvID": 1145
+    },
+    {
+      "id": 206,
+      "name": "North Shore",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "northshore",
+      "adjacent": [
+        203,
+        67
+      ],
+      "ptvID": 1547
+    },
+    {
+      "id": 207,
+      "name": "North Williamstown",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "northwilliamstown",
+      "adjacent": [
+        200,
+        304
+      ],
+      "ptvID": 1146
+    },
+    {
+      "id": 208,
+      "name": "Northcote",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "northcote",
+      "adjacent": [
+        177,
+        72
+      ],
+      "ptvID": 1147
+    },
+    {
+      "id": 209,
+      "name": "Nunawading",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "nunawading",
+      "adjacent": [
+        34,
+        181
+      ],
+      "ptvID": 1148
+    },
+    {
+      "id": 210,
+      "name": "Oak Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "oakpark",
+      "adjacent": [
+        118,
+        217
+      ],
+      "ptvID": 1149
+    },
+    {
+      "id": 211,
+      "name": "Oakleigh",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "oakleigh",
+      "adjacent": [
+        138,
+        137
+      ],
+      "ptvID": 1150
+    },
+    {
+      "id": 212,
+      "name": "Officer",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "officer",
+      "adjacent": [
+        48,
+        24
+      ],
+      "ptvID": 1151
+    },
+    {
+      "id": 213,
+      "name": "Ormond",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ormond",
+      "adjacent": [
+        117,
+        170
+      ],
+      "ptvID": 1152
+    },
+    {
+      "id": 214,
+      "name": "Pakenham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "pakenham",
+      "adjacent": [
+        197,
+        48
+      ],
+      "ptvID": 1153
+    },
+    {
+      "id": 215,
+      "name": "Parkdale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "parkdale",
+      "adjacent": [
+        173,
+        189
+      ],
+      "ptvID": 1154
+    },
+    {
+      "id": 216,
+      "name": "Parliament",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "red"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "cyan"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "yellow"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "blue"
+          ]
+        }
+      ],
+      "urlName": "parliament",
+      "adjacent": [
+        171,
+        104,
+        224,
+        143
+      ],
+      "ptvID": 1155
+    },
+    {
+      "id": 217,
+      "name": "Pascoe Vale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "pascoevale",
+      "adjacent": [
+        210,
+        261
+      ],
+      "ptvID": 1156
+    },
+    {
+      "id": 218,
+      "name": "Patterson",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "patterson",
+      "adjacent": [
+        30,
+        186
+      ],
+      "ptvID": 1157
+    },
+    {
+      "id": 219,
+      "name": "Prahran",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "prahran",
+      "adjacent": [
+        252,
+        307
+      ],
+      "ptvID": 1158
+    },
+    {
+      "id": 220,
+      "name": "Preston",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "preston",
+      "adjacent": [
+        27,
+        222
+      ],
+      "ptvID": 1159
+    },
+    {
+      "id": 221,
+      "name": "Pyramid",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "pyramid",
+      "adjacent": [
+        150,
+        81
+      ],
+      "ptvID": 1548
+    },
+    {
+      "id": 222,
+      "name": "Regent",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "regent",
+      "adjacent": [
+        220,
+        223
+      ],
+      "ptvID": 1160
+    },
+    {
+      "id": 223,
+      "name": "Reservoir",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "reservoir",
+      "adjacent": [
+        222,
+        237
+      ],
+      "ptvID": 1161
+    },
+    {
+      "id": 224,
+      "name": "Richmond",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up pink"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down pink"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Platform 5",
+          "rules": [
+            "up cyan",
+            "up purple"
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Platform 6",
+          "rules": [
+            "down cyan",
+            "down purple"
+          ]
+        },
+        {
+          "id": "7",
+          "name": "Platform 7",
+          "rules": [
+            "loop-up-direct blue"
+          ]
+        },
+        {
+          "id": "8",
+          "name": "Platform 8",
+          "rules": [
+            "up blue"
+          ]
+        },
+        {
+          "id": "9",
+          "name": "Platform 9",
+          "rules": [
+            "down blue"
+          ]
+        },
+        {
+          "id": "10",
+          "name": "Platform 10",
+          "rules": [
+            "loop-down-direct blue"
+          ]
+        }
+      ],
+      "urlName": "richmond",
+      "adjacent": [
+        104,
+        252,
+        216,
+        88
+      ],
+      "ptvID": 1162
+    },
+    {
+      "id": 225,
+      "name": "Riddells Creek",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "riddellscreek",
+      "adjacent": [
+        112,
+        58
+      ],
+      "ptvID": 1549
+    },
+    {
+      "id": 226,
+      "name": "Ringwood",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ringwood",
+      "adjacent": [
+        130,
+        131,
+        227
+      ],
+      "ptvID": 1163
+    },
+    {
+      "id": 227,
+      "name": "Ringwood East",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ringwoodeast",
+      "adjacent": [
+        226,
+        73
+      ],
+      "ptvID": 1164
+    },
+    {
+      "id": 228,
+      "name": "Ripponlea",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ripponlea",
+      "adjacent": [
+        92,
+        18
+      ],
+      "ptvID": 1165
+    },
+    {
+      "id": 229,
+      "name": "Riversdale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "riversdale",
+      "adjacent": [
+        305,
+        45
+      ],
+      "ptvID": 1166
+    },
+    {
+      "id": 230,
+      "name": "Rochester",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "rochester",
+      "adjacent": [
+        89,
+        91
+      ],
+      "ptvID": 1550
+    },
+    {
+      "id": 231,
+      "name": "Rockbank",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "rockbank",
+      "adjacent": [
+        62,
+        50
+      ],
+      "ptvID": 1167
+    },
+    {
+      "id": 232,
+      "name": "Rosanna",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "rosanna",
+      "adjacent": [
+        132,
+        165
+      ],
+      "ptvID": 1168
+    },
+    {
+      "id": 233,
+      "name": "Rosedale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "rosedale",
+      "adjacent": [
+        238,
+        278
+      ],
+      "ptvID": 1551
+    },
+    {
+      "id": 234,
+      "name": "Roxburgh Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "roxburghpark",
+      "adjacent": [
+        68,
+        66
+      ],
+      "ptvID": 1219
+    },
+    {
+      "id": 235,
+      "name": "Royal Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "royalpark",
+      "adjacent": [
+        142,
+        102
+      ],
+      "ptvID": 1169
+    },
+    {
+      "id": 236,
+      "name": "Rushall",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "rushall",
+      "adjacent": [
+        60,
+        177
+      ],
+      "ptvID": 1170
+    },
+    {
+      "id": 237,
+      "name": "Ruthven",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "ruthven",
+      "adjacent": [
+        223,
+        149
+      ],
+      "ptvID": 1171
+    },
+    {
+      "id": 238,
+      "name": "Sale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "sale",
+      "adjacent": [
+        260,
+        233
+      ],
+      "ptvID": 1553
+    },
+    {
+      "id": 239,
+      "name": "Sandown Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "sandownpark",
+      "adjacent": [
+        201,
+        257
+      ],
+      "ptvID": 1172
+    },
+    {
+      "id": 240,
+      "name": "Sandringham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "sandringham",
+      "adjacent": [
+        123
+      ],
+      "ptvID": 1173
+    },
+    {
+      "id": 241,
+      "name": "Seaford",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "seaford",
+      "adjacent": [
+        51,
+        145
+      ],
+      "ptvID": 1174
+    },
+    {
+      "id": 242,
+      "name": "Seaholme",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "seaholme",
+      "adjacent": [
+        200,
+        6
+      ],
+      "ptvID": 1175
+    },
+    {
+      "id": 243,
+      "name": "Seddon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "seddon",
+      "adjacent": [
+        105,
+        313
+      ],
+      "ptvID": 1176
+    },
+    {
+      "id": 244,
+      "name": "Seymour",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": []
+        }
+      ],
+      "urlName": "seymour",
+      "adjacent": [
+        268,
+        15,
+        196
+      ],
+      "ptvID": 1554
+    },
+    {
+      "id": 245,
+      "name": "Shepparton",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "shepparton",
+      "adjacent": [
+        188
+      ],
+      "ptvID": 1555
+    },
+    {
+      "id": 246,
+      "name": "Sherwood Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "sherwoodpark",
+      "adjacent": [
+        290,
+        271
+      ],
+      "ptvID": 1575
+    },
+    {
+      "id": 247,
+      "name": "Showgrounds",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "showgrounds",
+      "adjacent": [
+        103,
+        199
+      ],
+      "ptvID": 1177
+    },
+    {
+      "id": 248,
+      "name": "Somerville",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "somerville",
+      "adjacent": [
+        22,
+        279
+      ],
+      "ptvID": 1178
+    },
+    {
+      "id": 249,
+      "name": "South Geelong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "southgeelong",
+      "adjacent": [
+        168,
+        110
+      ],
+      "ptvID": 1556
+    },
+    {
+      "id": 250,
+      "name": "South Kensington",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "southkensington",
+      "adjacent": [
+        204,
+        105
+      ],
+      "ptvID": 1179
+    },
+    {
+      "id": 251,
+      "name": "South Morang",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "southmorang",
+      "adjacent": [
+        94,
+        180
+      ],
+      "ptvID": 1224
+    },
+    {
+      "id": 252,
+      "name": "South Yarra",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up pink"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down pink"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Platform 5",
+          "rules": [
+            "up cyan"
+          ]
+        },
+        {
+          "id": "6",
+          "name": "Platform 6",
+          "rules": [
+            "down cyan"
+          ]
+        }
+      ],
+      "urlName": "southyarra",
+      "adjacent": [
+        126,
+        224,
+        219
+      ],
+      "ptvID": 1180
+    },
+    {
+      "id": 253,
+      "name": "Southern Cross",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "2a",
+          "name": "Platform 2A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "2b",
+          "name": "Platform 2B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "3a",
+          "name": "Platform 3A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "3b",
+          "name": "Platform 3B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "4a",
+          "name": "Platform 4A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "4b",
+          "name": "Platform 4B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "5a",
+          "name": "Platform 5A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "5b",
+          "name": "Platform 5B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "6a",
+          "name": "Platform 6A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "6b",
+          "name": "Platform 6B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "7a",
+          "name": "Platform 7A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "7b",
+          "name": "Platform 7B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "8a",
+          "name": "Platform 8A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "8b",
+          "name": "Platform 8B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "8s",
+          "name": "Platform 8S",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "9",
+          "name": "Platform 9",
+          "rules": [
+            "red"
+          ]
+        },
+        {
+          "id": "10",
+          "name": "Platform 10",
+          "rules": [
+            "blue"
+          ]
+        },
+        {
+          "id": "11",
+          "name": "Platform 11",
+          "rules": [
+            "yellow"
+          ]
+        },
+        {
+          "id": "12",
+          "name": "Platform 12",
+          "rules": [
+            "cyan"
+          ]
+        },
+        {
+          "id": "13",
+          "name": "Platform 13",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "14",
+          "name": "Platform 14",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "15a",
+          "name": "Platform 15A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "15b",
+          "name": "Platform 15B",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "16a",
+          "name": "Platform 16A",
+          "rules": [
+            "purple"
+          ]
+        },
+        {
+          "id": "16b",
+          "name": "Platform 16B",
+          "rules": [
+            "purple"
+          ]
+        }
+      ],
+      "urlName": "southerncross",
+      "adjacent": [
+        204,
+        101,
+        104
+      ],
+      "ptvID": 1181
+    },
+    {
+      "id": 254,
+      "name": "Southland",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "southland",
+      "adjacent": [
+        134,
+        56
+      ],
+      "ptvID": 1001
+    },
+    {
+      "id": 255,
+      "name": "Spotswood",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "spotswood",
+      "adjacent": [
+        313,
+        200
+      ],
+      "ptvID": 1182
+    },
+    {
+      "id": 256,
+      "name": "Springhurst",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "springhurst",
+      "adjacent": [
+        288,
+        57
+      ],
+      "ptvID": 1557
+    },
+    {
+      "id": 257,
+      "name": "Springvale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "springvale",
+      "adjacent": [
+        239,
+        299
+      ],
+      "ptvID": 1183
+    },
+    {
+      "id": 258,
+      "name": "St Albans",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "stalbans",
+      "adjacent": [
+        111,
+        147
+      ],
+      "ptvID": 1184
+    },
+    {
+      "id": 259,
+      "name": "Stony Point",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "stonypoint",
+      "adjacent": [
+        71
+      ],
+      "ptvID": 1185
+    },
+    {
+      "id": 260,
+      "name": "Stratford",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "stratford",
+      "adjacent": [
+        17,
+        238
+      ],
+      "ptvID": 1558
+    },
+    {
+      "id": 261,
+      "name": "Strathmore",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "strathmore",
+      "adjacent": [
+        217,
+        115
+      ],
+      "ptvID": 1186
+    },
+    {
+      "id": 262,
+      "name": "Sunbury",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "sunbury",
+      "adjacent": [
+        80,
+        58
+      ],
+      "ptvID": 1187
+    },
+    {
+      "id": 263,
+      "name": "Sunshine",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up yellow"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down yellow"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up purple"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down purple"
+          ]
+        }
+      ],
+      "urlName": "sunshine",
+      "adjacent": [
+        276,
+        3,
+        9
+      ],
+      "ptvID": 1218
+    },
+    {
+      "id": 264,
+      "name": "Surrey Hills",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down weekday"
+          ]
+        }
+      ],
+      "urlName": "surreyhills",
+      "adjacent": [
+        54,
+        183
+      ],
+      "ptvID": 1189
+    },
+    {
+      "id": 265,
+      "name": "Swan Hill",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "swanhill",
+      "adjacent": [
+        150
+      ],
+      "ptvID": 1559
+    },
+    {
+      "id": 266,
+      "name": "Syndal",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "syndal",
+      "adjacent": [
+        193,
+        114
+      ],
+      "ptvID": 1190
+    },
+    {
+      "id": 267,
+      "name": "Talbot",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "talbot",
+      "adjacent": [
+        169,
+        61
+      ],
+      "ptvID": 1594
+    },
+    {
+      "id": 268,
+      "name": "Tallarook",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "tallarook",
+      "adjacent": [
+        39,
+        244
+      ],
+      "ptvID": 1560
+    },
+    {
+      "id": 269,
+      "name": "Tarneit",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "tarneit",
+      "adjacent": [
+        77,
+        310
+      ],
+      "ptvID": 1599
+    },
+    {
+      "id": 270,
+      "name": "Tecoma",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "tecoma",
+      "adjacent": [
+        283,
+        26
+      ],
+      "ptvID": 1191
+    },
+    {
+      "id": 271,
+      "name": "Terang",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "terang",
+      "adjacent": [
+        246,
+        46
+      ],
+      "ptvID": 1561
+    },
+    {
+      "id": 272,
+      "name": "Thomastown",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "thomastown",
+      "adjacent": [
+        149,
+        155
+      ],
+      "ptvID": 1192
+    },
+    {
+      "id": 273,
+      "name": "Thornbury",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "thornbury",
+      "adjacent": [
+        72,
+        27
+      ],
+      "ptvID": 1193
+    },
+    {
+      "id": 274,
+      "name": "Toorak",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up green"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down green"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "up cyan"
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Platform 4",
+          "rules": [
+            "down cyan"
+          ]
+        }
+      ],
+      "urlName": "toorak",
+      "adjacent": [
+        10,
+        126
+      ],
+      "ptvID": 1194
+    },
+    {
+      "id": 275,
+      "name": "Tooronga",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "tooronga",
+      "adjacent": [
+        152,
+        108
+      ],
+      "ptvID": 1195
+    },
+    {
+      "id": 276,
+      "name": "Tottenham",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "tottenham",
+      "adjacent": [
+        297,
+        263
+      ],
+      "ptvID": 1196
+    },
+    {
+      "id": 277,
+      "name": "Trafalgar",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "trafalgar",
+      "adjacent": [
+        182,
+        311
+      ],
+      "ptvID": 1562
+    },
+    {
+      "id": 278,
+      "name": "Traralgon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "traralgon",
+      "adjacent": [
+        233,
+        192
+      ],
+      "ptvID": 1563
+    },
+    {
+      "id": 279,
+      "name": "Tyabb",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "tyabb",
+      "adjacent": [
+        248,
+        125
+      ],
+      "ptvID": 1197
+    },
+    {
+      "id": 280,
+      "name": "Tynong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "tynong",
+      "adjacent": [
+        109,
+        197
+      ],
+      "ptvID": 1564
+    },
+    {
+      "id": 281,
+      "name": "Upfield",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "upfield",
+      "adjacent": [
+        120
+      ],
+      "ptvID": 1198
+    },
+    {
+      "id": 282,
+      "name": "Upper Ferntree Gully",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "upperferntreegully",
+      "adjacent": [
+        100,
+        283
+      ],
+      "ptvID": 1199
+    },
+    {
+      "id": 283,
+      "name": "Upwey",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "upwey",
+      "adjacent": [
+        282,
+        270
+      ],
+      "ptvID": 1200
+    },
+    {
+      "id": 284,
+      "name": "Victoria Park",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "victoriapark",
+      "adjacent": [
+        65,
+        60
+      ],
+      "ptvID": 1201
+    },
+    {
+      "id": 285,
+      "name": "Violet Town",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "violettown",
+      "adjacent": [
+        97,
+        28
+      ],
+      "ptvID": 1565
+    },
+    {
+      "id": 286,
+      "name": "Wallan",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "wallan",
+      "adjacent": [
+        82,
+        129
+      ],
+      "ptvID": 1574
+    },
+    {
+      "id": 287,
+      "name": "Wandong",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "wandong",
+      "adjacent": [
+        129,
+        151
+      ],
+      "ptvID": 1566
+    },
+    {
+      "id": 288,
+      "name": "Wangaratta",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "wangaratta",
+      "adjacent": [
+        28,
+        256
+      ],
+      "ptvID": 1567
+    },
+    {
+      "id": 289,
+      "name": "Warragul",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "warragul",
+      "adjacent": [
+        311,
+        83
+      ],
+      "ptvID": 1568
+    },
+    {
+      "id": 290,
+      "name": "Warrnambool",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "warrnambool",
+      "adjacent": [
+        246
+      ],
+      "ptvID": 1569
+    },
+    {
+      "id": 291,
+      "name": "Watergardens",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "yellow terminates-at-1202",
+            "yellow up",
+            "purple up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "yellow terminates-at-1202",
+            "yellow up"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "yellow down !terminates-at-1202",
+            "purple down"
+          ]
+        }
+      ],
+      "urlName": "watergardens",
+      "adjacent": [
+        147,
+        80
+      ],
+      "ptvID": 1202
+    },
+    {
+      "id": 292,
+      "name": "Watsonia",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "watsonia",
+      "adjacent": [
+        165,
+        121
+      ],
+      "ptvID": 1203
+    },
+    {
+      "id": 293,
+      "name": "Wattle Glen",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "wattleglen",
+      "adjacent": [
+        79,
+        139
+      ],
+      "ptvID": 1204
+    },
+    {
+      "id": 294,
+      "name": "Waurn Ponds",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "waurnponds",
+      "adjacent": [
+        306,
+        168
+      ],
+      "ptvID": 1596
+    },
+    {
+      "id": 295,
+      "name": "Wendouree",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "wendouree",
+      "adjacent": [
+        20,
+        25
+      ],
+      "ptvID": 1589
+    },
+    {
+      "id": 296,
+      "name": "Werribee",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": []
+        }
+      ],
+      "urlName": "werribee",
+      "adjacent": [
+        136
+      ],
+      "ptvID": 1205
+    },
+    {
+      "id": 297,
+      "name": "West Footscray",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "none"
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "westfootscray",
+      "adjacent": [
+        179,
+        276
+      ],
+      "ptvID": 1206
+    },
+    {
+      "id": 298,
+      "name": "West Richmond",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "westrichmond",
+      "adjacent": [
+        143,
+        205
+      ],
+      "ptvID": 1207
+    },
+    {
+      "id": 299,
+      "name": "Westall",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        },
+        {
+          "id": "3",
+          "name": "Platform 3",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "westall",
+      "adjacent": [
+        257,
+        59
+      ],
+      "ptvID": 1208
+    },
+    {
+      "id": 300,
+      "name": "Westgarth",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "westgarth",
+      "adjacent": [
+        60,
+        78
+      ],
+      "ptvID": 1209
+    },
+    {
+      "id": 301,
+      "name": "Westona",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "westona",
+      "adjacent": [
+        157,
+        6
+      ],
+      "ptvID": 1210
+    },
+    {
+      "id": 302,
+      "name": "Williams Landing",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "williamslanding",
+      "adjacent": [
+        136,
+        1
+      ],
+      "ptvID": 1225
+    },
+    {
+      "id": 303,
+      "name": "Williamstown",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "williamstown",
+      "adjacent": [
+        304
+      ],
+      "ptvID": 1211
+    },
+    {
+      "id": 304,
+      "name": "Williamstown Beach",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "williamstownbeach",
+      "adjacent": [
+        207,
+        303
+      ],
+      "ptvID": 1212
+    },
+    {
+      "id": 305,
+      "name": "Willison",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "willison",
+      "adjacent": [
+        124,
+        229
+      ],
+      "ptvID": 1213
+    },
+    {
+      "id": 306,
+      "name": "Winchelsea",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "winchelsea",
+      "adjacent": [
+        32,
+        294
+      ],
+      "ptvID": 1570
+    },
+    {
+      "id": 307,
+      "name": "Windsor",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "windsor",
+      "adjacent": [
+        18,
+        219
+      ],
+      "ptvID": 1214
+    },
+    {
+      "id": 308,
+      "name": "Wodonga",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        }
+      ],
+      "urlName": "wodonga",
+      "adjacent": [
+        57,
+        4
+      ],
+      "ptvID": 1571
+    },
+    {
+      "id": 309,
+      "name": "Woodend",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "woodend",
+      "adjacent": [
+        153,
+        164
+      ],
+      "ptvID": 1572
+    },
+    {
+      "id": 310,
+      "name": "Wyndham Vale",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "wyndhamvale",
+      "adjacent": [
+        160,
+        269
+      ],
+      "ptvID": 1598
+    },
+    {
+      "id": 311,
+      "name": "Yarragon",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": []
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": []
+        }
+      ],
+      "urlName": "yarragon",
+      "adjacent": [
+        277,
+        289
+      ],
+      "ptvID": 1573
+    },
+    {
+      "id": 312,
+      "name": "Yarraman",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "yarraman",
+      "adjacent": [
+        74,
+        201
+      ],
+      "ptvID": 1215
+    },
+    {
+      "id": 313,
+      "name": "Yarraville",
+      "platforms": [
+        {
+          "id": "1",
+          "name": "Platform 1",
+          "rules": [
+            "up"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Platform 2",
+          "rules": [
+            "down"
+          ]
+        }
+      ],
+      "urlName": "yarraville",
+      "adjacent": [
+        243,
+        255
+      ],
+      "ptvID": 1216
+    }
+  ]
+}

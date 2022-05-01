@@ -1,0 +1,64 @@
+{
+  "$schema": "https://data.trainarrives.in/schemas/lines_v2.json",
+  "lines": [
+    {
+      "id": 1,
+      "name": "Sandringham",
+      "color": "pink",
+      "service": "metro",
+      "route": {
+        "type": "linear",
+        "stops": [
+          1
+        ]
+      },
+      "ptvRoutes": [
+        12
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Cranbourne",
+      "color": "cyan",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          1
+        ],
+        "portal": "richmond"
+      },
+      "ptvRoutes": [
+        4
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Seymour",
+      "color": "purple",
+      "service": "regional",
+      "route": {
+        "type": "branch",
+        "branches": [
+          {
+            "id": "albury",
+            "stops": [
+              1
+            ]
+          },
+          {
+            "id": "shepparton",
+            "stops": [
+              1
+            ]
+          }
+        ]
+      },
+      "ptvRoutes": [
+        1706,
+        1710,
+        1908
+      ]
+    }
+  ]
+}
