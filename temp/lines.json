@@ -9,11 +9,90 @@
       "route": {
         "type": "linear",
         "stops": [
-          1
+          240,
+          123,
+          38,
+          178,
+          202,
+          107,
+          92,
+          228,
+          18,
+          307,
+          219,
+          252,
+          224,
+          104
         ]
       },
       "ptvRoutes": [
         12
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Frankston",
+      "color": "green",
+      "service": "metro",
+      "route": {
+        "type": "linear",
+        "stops": [
+          106,
+          145,
+          241,
+          51,
+          35,
+          55,
+          90,
+          13,
+          189,
+          215,
+          173,
+          56,
+          254,
+          134,
+          186,
+          218,
+          30,
+          170,
+          213,
+          117,
+          53,
+          167,
+          10,
+          274,
+          126,
+          252,
+          224,
+          104
+        ]
+      },
+      "ptvRoutes": [
+        6
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Stony Point",
+      "color": "green",
+      "service": "metro",
+      "route": {
+        "type": "linear",
+        "stops": [
+          259,
+          71,
+          191,
+          33,
+          125,
+          279,
+          248,
+          22,
+          158,
+          106
+        ]
+      },
+      "ptvRoutes": [
+        13
       ]
     },
     {
@@ -24,12 +103,388 @@
       "route": {
         "type": "city-loop",
         "stops": [
-          1
+          69,
+          174,
+          162,
+          74,
+          312,
+          201,
+          239,
+          257,
+          299,
+          59,
+          138,
+          211,
+          137,
+          195,
+          49,
+          53,
+          167,
+          10,
+          274,
+          126,
+          252,
+          224
         ],
         "portal": "richmond"
       },
       "ptvRoutes": [
         4
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pakenham",
+      "color": "cyan",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          214,
+          48,
+          212,
+          24,
+          31,
+          198,
+          122,
+          74,
+          312,
+          201,
+          239,
+          257,
+          299,
+          59,
+          138,
+          211,
+          137,
+          195,
+          49,
+          53,
+          167,
+          10,
+          274,
+          126,
+          252,
+          224
+        ],
+        "portal": "richmond"
+      },
+      "ptvRoutes": [
+        11
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gippsland",
+      "color": "purple",
+      "service": "regional",
+      "route": {
+        "type": "linear",
+        "stops": [
+          17,
+          260,
+          238,
+          233,
+          278,
+          192,
+          182,
+          277,
+          311,
+          289,
+          83,
+          161,
+          42,
+          109,
+          280,
+          197,
+          214,
+          31,
+          74,
+          59,
+          53,
+          224,
+          104,
+          253
+        ]
+      },
+      "ptvRoutes": [
+        1824,
+        1823
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Glen Waverley",
+      "color": "blue",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          114,
+          266,
+          193,
+          144,
+          135,
+          87,
+          76,
+          113,
+          108,
+          275,
+          152,
+          133,
+          43,
+          88,
+          224
+        ],
+        "portal": "richmond"
+      },
+      "ptvRoutes": [
+        7
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Alamein",
+      "color": "blue",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          2,
+          12,
+          44,
+          124,
+          305,
+          229,
+          45,
+          14,
+          116,
+          128,
+          43,
+          88,
+          224
+        ],
+        "portal": "richmond"
+      },
+      "ptvRoutes": [
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Belgrave",
+      "color": "blue",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          26,
+          270,
+          283,
+          282,
+          100,
+          36,
+          23,
+          131,
+          226,
+          130,
+          181,
+          209,
+          34,
+          154,
+          37,
+          183,
+          264,
+          54,
+          47,
+          86,
+          45,
+          14,
+          116,
+          128,
+          43,
+          88,
+          224
+        ],
+        "portal": "richmond"
+      },
+      "ptvRoutes": [
+        2
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Lilydale",
+      "color": "blue",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          159,
+          187,
+          73,
+          227,
+          226,
+          130,
+          181,
+          209,
+          34,
+          154,
+          37,
+          183,
+          264,
+          54,
+          47,
+          86,
+          45,
+          14,
+          116,
+          128,
+          43,
+          88,
+          224
+        ],
+        "portal": "richmond"
+      },
+      "ptvRoutes": [
+        9
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hurstbridge",
+      "color": "red",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          139,
+          293,
+          79,
+          93,
+          184,
+          121,
+          292,
+          165,
+          232,
+          132,
+          85,
+          140,
+          75,
+          5,
+          98,
+          78,
+          300,
+          60,
+          284,
+          65,
+          205,
+          298,
+          143
+        ],
+        "portal": "jolimont"
+      },
+      "ptvRoutes": [
+        8
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mernda",
+      "color": "red",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          176,
+          127,
+          180,
+          251,
+          94,
+          155,
+          272,
+          149,
+          237,
+          223,
+          222,
+          220,
+          27,
+          273,
+          72,
+          208,
+          177,
+          236,
+          60,
+          284,
+          65,
+          205,
+          298,
+          143
+        ],
+        "portal": "jolimont"
+      },
+      "ptvRoutes": [
+        5
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Upfield",
+      "color": "yellow",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          281,
+          120,
+          99,
+          175,
+          21,
+          63,
+          190,
+          7,
+          41,
+          142,
+          235,
+          102,
+          163,
+          204
+        ],
+        "portal": "north-melbourne"
+      },
+      "ptvRoutes": [
+        15
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Craigieburn",
+      "color": "yellow",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          68,
+          234,
+          66,
+          40,
+          141,
+          118,
+          210,
+          217,
+          261,
+          115,
+          96,
+          185,
+          11,
+          199,
+          148,
+          204
+        ],
+        "portal": "north-melbourne"
+      },
+      "ptvRoutes": [
+        3
       ]
     },
     {
@@ -43,13 +498,50 @@
           {
             "id": "albury",
             "stops": [
-              1
+              4,
+              308,
+              57,
+              256,
+              288,
+              28,
+              285,
+              97,
+              15,
+              244,
+              268,
+              39,
+              151,
+              287,
+              129,
+              286,
+              82,
+              68,
+              40,
+              96,
+              204,
+              253
             ]
           },
           {
             "id": "shepparton",
             "stops": [
-              1
+              245,
+              188,
+              194,
+              196,
+              244,
+              268,
+              39,
+              151,
+              287,
+              129,
+              286,
+              82,
+              68,
+              40,
+              96,
+              204,
+              253
             ]
           }
         ]
@@ -58,6 +550,265 @@
         1706,
         1710,
         1908
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Flemington Racecourse",
+      "color": "grey",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          103,
+          247,
+          199,
+          148,
+          204
+        ],
+        "portal": "north-melbourne"
+      },
+      "ptvRoutes": [
+        1482
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Sunbury",
+      "color": "yellow",
+      "service": "metro",
+      "route": {
+        "type": "city-loop",
+        "stops": [
+          262,
+          80,
+          291,
+          147,
+          258,
+          111,
+          3,
+          263,
+          276,
+          297,
+          179,
+          105,
+          250,
+          204
+        ],
+        "portal": "north-melbourne"
+      },
+      "ptvRoutes": [
+        14
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Bendigo",
+      "color": "purple",
+      "service": "regional",
+      "route": {
+        "type": "branch",
+        "branches": [
+          {
+            "id": "echuca",
+            "stops": [
+              89,
+              230,
+              91,
+              119,
+              95,
+              29,
+              146,
+              52,
+              166,
+              153,
+              309,
+              164,
+              112,
+              225,
+              58,
+              262,
+              291,
+              263,
+              105,
+              253
+            ]
+          },
+          {
+            "id": "swan-hill",
+            "stops": [
+              265,
+              150,
+              221,
+              81,
+              84,
+              29,
+              146,
+              52,
+              166,
+              153,
+              309,
+              164,
+              112,
+              225,
+              58,
+              262,
+              291,
+              263,
+              105,
+              253
+            ]
+          }
+        ]
+      },
+      "ptvRoutes": [
+        1740,
+        1848,
+        1849
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Maryborough",
+      "color": "purple",
+      "service": "regional",
+      "route": {
+        "type": "linear",
+        "stops": [
+          169,
+          267,
+          61,
+          70,
+          20
+        ]
+      },
+      "ptvRoutes": [
+        4871
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Ballarat",
+      "color": "purple",
+      "service": "regional",
+      "route": {
+        "type": "linear",
+        "stops": [
+          8,
+          25,
+          295,
+          20,
+          19,
+          16,
+          172,
+          62,
+          231,
+          50,
+          77,
+          9,
+          263,
+          105,
+          253
+        ]
+      },
+      "ptvRoutes": [
+        1728,
+        1837
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Geelong",
+      "color": "purple",
+      "service": "regional",
+      "route": {
+        "type": "linear",
+        "stops": [
+          290,
+          246,
+          271,
+          46,
+          64,
+          32,
+          306,
+          294,
+          168,
+          249,
+          110,
+          203,
+          206,
+          67,
+          156,
+          160,
+          310,
+          269,
+          77,
+          9,
+          263,
+          105,
+          253
+        ]
+      },
+      "ptvRoutes": [
+        1745,
+        1853
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Werribee",
+      "color": "green",
+      "service": "metro",
+      "route": {
+        "type": "linear",
+        "stops": [
+          296,
+          136,
+          302,
+          1,
+          157,
+          301,
+          6,
+          242,
+          200,
+          255,
+          313,
+          243,
+          105,
+          250,
+          204,
+          253,
+          104
+        ]
+      },
+      "ptvRoutes": [
+        16
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Williamstown",
+      "color": "green",
+      "service": "metro",
+      "route": {
+        "type": "linear",
+        "stops": [
+          303,
+          304,
+          207,
+          200,
+          255,
+          313,
+          243,
+          105,
+          250,
+          204,
+          253,
+          104
+        ]
+      },
+      "ptvRoutes": [
+        17
       ]
     }
   ]
