@@ -1,5 +1,5 @@
 {
-  "$schema": "https://data.trainarrives.in/schemas/stops_v2.json",
+  "$schema": "https://data.trainquery.com/schemas/stops_v2.json",
   "stops": [
     {
       "id": 1,
