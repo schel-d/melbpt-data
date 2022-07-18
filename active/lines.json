@@ -669,55 +669,63 @@
     },
     {
       "id": 19,
-      "name": "Maryborough",
+      "name": "Ballarat",
       "color": "purple",
       "service": "regional",
       "route": {
-        "type": "linear",
-        "stops": [
-          169,
-          267,
-          61,
-          70,
-          20
+        "type": "branch",
+        "branches": [
+          {
+            "id": "maryborough",
+            "stops": [
+              169,
+              267,
+              61,
+              70,
+              20,
+              19,
+              16,
+              172,
+              62,
+              231,
+              50,
+              77,
+              9,
+              263,
+              105,
+              253
+            ]
+          },
+          {
+            "id": "ararat",
+            "stops": [
+              8,
+              25,
+              295,
+              20,
+              19,
+              16,
+              172,
+              62,
+              231,
+              50,
+              77,
+              9,
+              263,
+              105,
+              253
+            ]
+          }
         ]
       },
       "ptvRoutes": [
+        1728,
+        1837,
         4871
       ]
     },
     {
       "id": 20,
-      "name": "Ballarat",
-      "color": "purple",
-      "service": "regional",
-      "route": {
-        "type": "linear",
-        "stops": [
-          8,
-          25,
-          295,
-          20,
-          19,
-          16,
-          172,
-          62,
-          231,
-          50,
-          77,
-          9,
-          263,
-          105,
-          253
-        ]
-      },
-      "ptvRoutes": [
-        1728,
-        1837
-      ]
-    },
-    {
-      "id": 21,
       "name": "Geelong",
       "color": "purple",
       "service": "regional",
@@ -755,7 +763,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 21,
       "name": "Werribee",
       "color": "green",
       "service": "suburban",
@@ -786,7 +794,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 22,
       "name": "Williamstown",
       "color": "green",
       "service": "suburban",

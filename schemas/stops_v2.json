@@ -23,11 +23,11 @@
               "type": "object",
               "properties": {
                 "id": {
-                  "description": "The unique identifier for this platform. Is only unique for this stop (i.e. all stops will likely have a platform with an ID of 1).",
+                  "description": "The unique identifier for this platform. Is only unique for this stop - all stops will likely have a platform with an ID of 1. Platform IDs where the platform includes letters tend to be in lowercase, e.g. \"15a\" for platform 15A at Southern Cross.",
                   "type": "string"
                 },
                 "name": {
-                  "description": "The name of this platform, which should include the word \"platform\", e.g. \"Platform 1\".",
+                  "description": "The name of this platform, which should not include the word \"platform\", e.g. \"15A\" for platform 15A at Southern Cross.",
                   "type": "string"
                 },
                 "rules": {

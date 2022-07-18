@@ -7,14 +7,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -33,7 +33,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -49,14 +49,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -75,7 +75,7 @@
       "platforms": [
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -91,14 +91,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -117,7 +117,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -134,14 +134,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -160,7 +160,7 @@
       "platforms": [
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -176,14 +176,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -202,28 +202,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up cyan"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down cyan"
           ]
@@ -242,14 +242,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -268,7 +268,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -285,14 +285,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -311,14 +311,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down lilydale",
             "down belgrave"
@@ -326,7 +326,7 @@
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -345,14 +345,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -371,14 +371,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -397,7 +397,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -413,14 +413,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -439,12 +439,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -461,12 +461,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -486,14 +486,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -512,7 +512,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -529,14 +529,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -555,14 +555,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -581,7 +581,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -598,12 +598,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -619,14 +619,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -645,7 +645,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -662,12 +662,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -685,19 +685,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -716,14 +716,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -742,7 +742,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -759,7 +759,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -776,19 +776,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -807,14 +807,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -833,14 +833,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -859,26 +859,26 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "none"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "up"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": []
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down weekday"
           ]
@@ -897,21 +897,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "none"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "up"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -930,14 +930,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -956,21 +956,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up !albury"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down !albury"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "albury"
           ]
@@ -989,14 +989,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1015,7 +1015,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -1032,28 +1032,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "up"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down"
           ]
@@ -1073,14 +1073,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1099,7 +1099,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up !alamein",
             "alamein !terminates-at-1032"
@@ -1107,7 +1107,7 @@
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "belgrave",
             "lilydale",
@@ -1116,7 +1116,7 @@
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -1136,7 +1136,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -1153,21 +1153,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -1186,14 +1186,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1212,14 +1212,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1238,14 +1238,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1264,14 +1264,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1290,12 +1290,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -1312,21 +1312,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up cyan",
             "up purple"
@@ -1334,7 +1334,7 @@
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down cyan",
             "down purple"
@@ -1355,21 +1355,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -1388,14 +1388,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1414,21 +1414,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "up"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -1447,14 +1447,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1473,12 +1473,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -1495,14 +1495,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1521,14 +1521,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1548,7 +1548,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -1565,14 +1565,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1591,14 +1591,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1617,7 +1617,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -1634,14 +1634,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1660,14 +1660,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1686,14 +1686,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1712,7 +1712,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "yellow",
             "purple"
@@ -1720,7 +1720,7 @@
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down purple",
             "yellow"
@@ -1740,12 +1740,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -1761,7 +1761,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -1778,7 +1778,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -1795,14 +1795,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1821,14 +1821,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1847,17 +1847,17 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": []
         }
       ],
@@ -1875,14 +1875,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1901,14 +1901,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1927,14 +1927,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1954,14 +1954,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -1980,12 +1980,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2002,14 +2002,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2028,7 +2028,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -2045,14 +2045,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2071,12 +2071,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2093,7 +2093,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -2110,14 +2110,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2136,21 +2136,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -2169,14 +2169,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2195,14 +2195,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2221,7 +2221,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -2237,14 +2237,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2263,7 +2263,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -2280,14 +2280,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2306,12 +2306,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2328,14 +2328,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2354,7 +2354,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -2371,21 +2371,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "none"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "up"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -2404,14 +2404,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2430,14 +2430,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2456,14 +2456,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2482,14 +2482,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2508,28 +2508,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "red"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "cyan"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "yellow"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "blue"
           ]
@@ -2549,14 +2549,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2575,12 +2575,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2596,67 +2596,67 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": []
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": []
         },
         {
           "id": "5",
-          "name": "Platform 5",
+          "name": "5",
           "rules": []
         },
         {
           "id": "6",
-          "name": "Platform 6",
+          "name": "6",
           "rules": []
         },
         {
           "id": "7",
-          "name": "Platform 7",
+          "name": "7",
           "rules": []
         },
         {
           "id": "8",
-          "name": "Platform 8",
+          "name": "8",
           "rules": []
         },
         {
           "id": "9",
-          "name": "Platform 9",
+          "name": "9",
           "rules": []
         },
         {
           "id": "10",
-          "name": "Platform 10",
+          "name": "10",
           "rules": []
         },
         {
           "id": "12",
-          "name": "Platform 12",
+          "name": "12",
           "rules": []
         },
         {
           "id": "13",
-          "name": "Platform 13",
+          "name": "13",
           "rules": []
         },
         {
           "id": "14",
-          "name": "Platform 14",
+          "name": "14",
           "rules": []
         }
       ],
@@ -2675,42 +2675,42 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up yellow"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down yellow"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up purple"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down purple"
           ]
         },
         {
           "id": "5",
-          "name": "Platform 5",
+          "name": "5",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "6",
-          "name": "Platform 6",
+          "name": "6",
           "rules": [
             "down green"
           ]
@@ -2730,21 +2730,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "frankston"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "frankston"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "stony-point"
           ]
@@ -2763,14 +2763,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2789,14 +2789,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2815,12 +2815,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2837,17 +2837,17 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": []
         }
       ],
@@ -2864,14 +2864,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2890,12 +2890,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2912,14 +2912,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2938,12 +2938,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -2959,14 +2959,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -2985,14 +2985,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "lilydale down weekend",
             "belgrave down weekend",
@@ -3002,7 +3002,7 @@
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -3021,19 +3021,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -3052,14 +3052,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3078,7 +3078,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -3095,14 +3095,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3121,12 +3121,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -3143,14 +3143,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3169,14 +3169,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3195,14 +3195,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3221,7 +3221,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -3238,28 +3238,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up cyan"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down cyan"
           ]
@@ -3278,14 +3278,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3304,14 +3304,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down lilydale",
             "down belgrave"
@@ -3319,7 +3319,7 @@
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down alamein",
             "down lilydale weekday",
@@ -3340,14 +3340,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3366,14 +3366,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3392,14 +3392,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3418,14 +3418,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3444,14 +3444,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3470,14 +3470,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3496,14 +3496,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3522,14 +3522,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3548,14 +3548,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3574,14 +3574,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3600,7 +3600,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -3616,14 +3616,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3642,14 +3642,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3668,14 +3668,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3694,14 +3694,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3721,14 +3721,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3747,14 +3747,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3773,12 +3773,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -3795,14 +3795,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3821,14 +3821,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3847,14 +3847,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3873,7 +3873,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -3890,14 +3890,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3916,14 +3916,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3942,12 +3942,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -3964,14 +3964,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -3990,14 +3990,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4016,14 +4016,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4042,21 +4042,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up !stops-at-1005"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down",
             "stops-at-1005"
@@ -4076,7 +4076,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4093,12 +4093,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -4114,14 +4114,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4140,7 +4140,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4157,14 +4157,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4183,14 +4183,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4209,12 +4209,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -4231,21 +4231,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up !originates-at-1117"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down !terminates-at-1117"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "terminates-at-1117 originates-at-1117"
           ]
@@ -4264,7 +4264,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4281,28 +4281,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up cyan"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down cyan"
           ]
@@ -4321,7 +4321,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4338,7 +4338,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4354,19 +4354,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -4385,28 +4385,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "red"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "cyan"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "yellow"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "blue"
           ]
@@ -4425,14 +4425,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4451,14 +4451,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4477,14 +4477,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4503,14 +4503,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4529,12 +4529,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -4550,14 +4550,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4576,14 +4576,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4602,14 +4602,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4628,14 +4628,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4654,14 +4654,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4680,7 +4680,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4697,21 +4697,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -4730,7 +4730,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4747,14 +4747,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4773,19 +4773,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -4804,12 +4804,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4828,7 +4828,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4845,14 +4845,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4871,14 +4871,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4897,7 +4897,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4914,7 +4914,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4931,14 +4931,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -4957,7 +4957,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -4974,14 +4974,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5000,7 +5000,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -5017,12 +5017,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -5039,14 +5039,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5065,14 +5065,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5092,14 +5092,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5119,14 +5119,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5145,14 +5145,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5171,14 +5171,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5197,7 +5197,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up craigieburn",
             "up upfield"
@@ -5205,7 +5205,7 @@
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down craigieburn",
             "down upfield"
@@ -5213,21 +5213,21 @@
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up sunbury"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down sunbury"
           ]
         },
         {
           "id": "5",
-          "name": "Platform 5",
+          "name": "5",
           "rules": [
             "up craigieburn",
             "up green"
@@ -5235,7 +5235,7 @@
         },
         {
           "id": "6",
-          "name": "Platform 6",
+          "name": "6",
           "rules": [
             "down craigieburn",
             "down green"
@@ -5258,14 +5258,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5284,14 +5284,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5310,14 +5310,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5336,14 +5336,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5362,14 +5362,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5388,14 +5388,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5414,14 +5414,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5440,14 +5440,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5466,19 +5466,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -5497,12 +5497,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -5519,14 +5519,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5545,28 +5545,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "red"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "cyan"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "yellow"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "blue"
           ]
@@ -5587,14 +5587,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5613,19 +5613,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -5644,14 +5644,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5670,14 +5670,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5696,7 +5696,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -5713,14 +5713,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5739,14 +5739,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5765,35 +5765,35 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up pink"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down pink"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "5",
-          "name": "Platform 5",
+          "name": "5",
           "rules": [
             "up cyan",
             "up purple"
@@ -5801,7 +5801,7 @@
         },
         {
           "id": "6",
-          "name": "Platform 6",
+          "name": "6",
           "rules": [
             "down cyan",
             "down purple"
@@ -5809,28 +5809,28 @@
         },
         {
           "id": "7",
-          "name": "Platform 7",
+          "name": "7",
           "rules": [
             "loop-up-direct blue"
           ]
         },
         {
           "id": "8",
-          "name": "Platform 8",
+          "name": "8",
           "rules": [
             "up blue"
           ]
         },
         {
           "id": "9",
-          "name": "Platform 9",
+          "name": "9",
           "rules": [
             "down blue"
           ]
         },
         {
           "id": "10",
-          "name": "Platform 10",
+          "name": "10",
           "rules": [
             "loop-down-direct blue"
           ]
@@ -5851,12 +5851,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -5873,17 +5873,17 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -5903,14 +5903,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5929,14 +5929,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5955,14 +5955,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -5981,7 +5981,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -5998,14 +5998,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6024,14 +6024,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6050,7 +6050,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6067,14 +6067,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6093,14 +6093,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6119,14 +6119,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6145,14 +6145,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6171,7 +6171,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6188,14 +6188,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6214,7 +6214,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6230,14 +6230,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6256,7 +6256,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6273,14 +6273,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6299,17 +6299,17 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": []
         }
       ],
@@ -6327,7 +6327,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6343,7 +6343,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6360,7 +6360,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6377,7 +6377,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6394,7 +6394,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6411,14 +6411,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6437,14 +6437,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6463,42 +6463,42 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up pink"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down pink"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "5",
-          "name": "Platform 5",
+          "name": "5",
           "rules": [
             "up cyan"
           ]
         },
         {
           "id": "6",
-          "name": "Platform 6",
+          "name": "6",
           "rules": [
             "down cyan"
           ]
@@ -6518,182 +6518,182 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "2a",
-          "name": "Platform 2A",
+          "name": "2A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "2b",
-          "name": "Platform 2B",
+          "name": "2B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "3a",
-          "name": "Platform 3A",
+          "name": "3A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "3b",
-          "name": "Platform 3B",
+          "name": "3B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "4a",
-          "name": "Platform 4A",
+          "name": "4A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "4b",
-          "name": "Platform 4B",
+          "name": "4B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "5a",
-          "name": "Platform 5A",
+          "name": "5A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "5b",
-          "name": "Platform 5B",
+          "name": "5B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "6a",
-          "name": "Platform 6A",
+          "name": "6A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "6b",
-          "name": "Platform 6B",
+          "name": "6B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "7a",
-          "name": "Platform 7A",
+          "name": "7A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "7b",
-          "name": "Platform 7B",
+          "name": "7B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "8a",
-          "name": "Platform 8A",
+          "name": "8A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "8b",
-          "name": "Platform 8B",
+          "name": "8B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "8s",
-          "name": "Platform 8S",
+          "name": "8S",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "9",
-          "name": "Platform 9",
+          "name": "9",
           "rules": [
             "red"
           ]
         },
         {
           "id": "10",
-          "name": "Platform 10",
+          "name": "10",
           "rules": [
             "blue"
           ]
         },
         {
           "id": "11",
-          "name": "Platform 11",
+          "name": "11",
           "rules": [
             "yellow"
           ]
         },
         {
           "id": "12",
-          "name": "Platform 12",
+          "name": "12",
           "rules": [
             "cyan"
           ]
         },
         {
           "id": "13",
-          "name": "Platform 13",
+          "name": "13",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "14",
-          "name": "Platform 14",
+          "name": "14",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "15a",
-          "name": "Platform 15A",
+          "name": "15A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "15b",
-          "name": "Platform 15B",
+          "name": "15B",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "16a",
-          "name": "Platform 16A",
+          "name": "16A",
           "rules": [
             "purple"
           ]
         },
         {
           "id": "16b",
-          "name": "Platform 16B",
+          "name": "16B",
           "rules": [
             "purple"
           ]
@@ -6713,14 +6713,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6739,14 +6739,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6765,14 +6765,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6791,14 +6791,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6817,14 +6817,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6843,7 +6843,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6859,7 +6859,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -6876,14 +6876,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -6902,12 +6902,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -6924,28 +6924,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up yellow"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down yellow"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up purple"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down purple"
           ]
@@ -6965,21 +6965,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down weekday"
           ]
@@ -6998,7 +6998,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7014,14 +7014,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7040,7 +7040,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7057,14 +7057,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7083,14 +7083,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7109,7 +7109,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7126,7 +7126,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7143,14 +7143,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7169,14 +7169,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7195,28 +7195,28 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up green"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down green"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "up cyan"
           ]
         },
         {
           "id": "4",
-          "name": "Platform 4",
+          "name": "4",
           "rules": [
             "down cyan"
           ]
@@ -7235,14 +7235,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7261,14 +7261,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7287,12 +7287,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -7309,7 +7309,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7326,7 +7326,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7343,12 +7343,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -7365,7 +7365,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7381,14 +7381,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7407,14 +7407,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7433,14 +7433,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7459,14 +7459,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7485,14 +7485,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7511,14 +7511,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7537,7 +7537,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7554,12 +7554,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -7576,7 +7576,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7592,7 +7592,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "yellow terminates-at-1202",
             "yellow up",
@@ -7601,7 +7601,7 @@
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "yellow terminates-at-1202",
             "yellow up"
@@ -7609,7 +7609,7 @@
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "yellow down !terminates-at-1202",
             "purple down"
@@ -7629,14 +7629,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7655,7 +7655,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7672,12 +7672,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -7694,12 +7694,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -7716,17 +7716,17 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": []
         }
       ],
@@ -7742,21 +7742,21 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "none"
           ]
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -7775,14 +7775,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7801,19 +7801,19 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         },
         {
           "id": "3",
-          "name": "Platform 3",
+          "name": "3",
           "rules": [
             "down"
           ]
@@ -7832,14 +7832,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7858,14 +7858,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7884,14 +7884,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7910,7 +7910,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7926,14 +7926,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7952,14 +7952,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -7978,7 +7978,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -7995,14 +7995,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -8021,7 +8021,7 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         }
       ],
@@ -8038,12 +8038,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -8060,14 +8060,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -8086,12 +8086,12 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": []
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": []
         }
       ],
@@ -8108,14 +8108,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
@@ -8134,14 +8134,14 @@
       "platforms": [
         {
           "id": "1",
-          "name": "Platform 1",
+          "name": "1",
           "rules": [
             "up"
           ]
         },
         {
           "id": "2",
-          "name": "Platform 2",
+          "name": "2",
           "rules": [
             "down"
           ]
