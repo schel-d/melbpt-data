@@ -32,9 +32,9 @@
           },
           "service": {
             "type": "string",
-            "description": "The type of service that runs on this line. Are these \"metro\" or \"regional\" trains?",
+            "description": "The type of service that runs on this line. Are these \"suburban\" or \"regional\" trains?",
             "enum": [
-              "metro",
+              "suburban",
               "regional"
             ]
           },

@@ -5,7 +5,7 @@
       "id": 1,
       "name": "Sandringham",
       "color": "pink",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "linear",
         "stops": [
@@ -33,7 +33,7 @@
       "id": 2,
       "name": "Frankston",
       "color": "green",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "linear",
         "stops": [
@@ -75,7 +75,7 @@
       "id": 3,
       "name": "Stony Point",
       "color": "green",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "linear",
         "stops": [
@@ -99,7 +99,7 @@
       "id": 4,
       "name": "Cranbourne",
       "color": "cyan",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -136,7 +136,7 @@
       "id": 5,
       "name": "Pakenham",
       "color": "cyan",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -216,7 +216,7 @@
       "id": 7,
       "name": "Glen Waverley",
       "color": "blue",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -246,7 +246,7 @@
       "id": 8,
       "name": "Alamein",
       "color": "blue",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -274,7 +274,7 @@
       "id": 9,
       "name": "Belgrave",
       "color": "blue",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -316,7 +316,7 @@
       "id": 10,
       "name": "Lilydale",
       "color": "blue",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -354,7 +354,7 @@
       "id": 11,
       "name": "Hurstbridge",
       "color": "red",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -392,7 +392,7 @@
       "id": 12,
       "name": "Mernda",
       "color": "red",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -431,7 +431,7 @@
       "id": 13,
       "name": "Upfield",
       "color": "yellow",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -460,7 +460,7 @@
       "id": 14,
       "name": "Craigieburn",
       "color": "yellow",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -556,7 +556,7 @@
       "id": 16,
       "name": "Flemington Racecourse",
       "color": "grey",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -576,7 +576,7 @@
       "id": 17,
       "name": "Sunbury",
       "color": "yellow",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "city-loop",
         "stops": [
@@ -758,7 +758,7 @@
       "id": 22,
       "name": "Werribee",
       "color": "green",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "linear",
         "stops": [
@@ -789,7 +789,7 @@
       "id": 23,
       "name": "Williamstown",
       "color": "green",
-      "service": "metro",
+      "service": "suburban",
       "route": {
         "type": "linear",
         "stops": [
