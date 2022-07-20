@@ -1,7 +1,7 @@
 {
   "versions": {
     "v2": {
-      "latest": "https://data.trainquery.com/data/2022-07-18.zip",
+      "latest": "https://data.trainquery.com/data/2022-07-20.zip",
       "backup": "https://data.trainquery.com/data/2022-07-18.zip"
     }
   }
