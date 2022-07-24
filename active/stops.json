@@ -320,8 +320,8 @@
           "id": "2",
           "name": "2",
           "rules": [
-            "down lilydale",
-            "down belgrave"
+            "down line-10",
+            "down line-9"
           ]
         },
         {
@@ -958,21 +958,22 @@
           "id": "1",
           "name": "1",
           "rules": [
-            "up !albury"
+            "up !albury-up !albury-down"
           ]
         },
         {
           "id": "2",
           "name": "2",
           "rules": [
-            "down !albury"
+            "down !albury-up !albury-down"
           ]
         },
         {
           "id": "3",
           "name": "3",
           "rules": [
-            "albury"
+            "albury-up",
+            "albury-down"
           ]
         }
       ],
@@ -1101,17 +1102,17 @@
           "id": "1",
           "name": "1",
           "rules": [
-            "up !alamein",
-            "alamein !terminates-at-1032"
+            "up !line-8",
+            "line-8 !terminates-at-1032"
           ]
         },
         {
           "id": "2",
           "name": "2",
           "rules": [
-            "belgrave",
-            "lilydale",
-            "alamein terminates-at-1032"
+            "line-9",
+            "line-10",
+            "line-8 terminates-at-1032"
           ]
         },
         {
@@ -2732,21 +2733,21 @@
           "id": "1",
           "name": "1",
           "rules": [
-            "frankston"
+            "line-2"
           ]
         },
         {
           "id": "2",
           "name": "2",
           "rules": [
-            "frankston"
+            "line-2"
           ]
         },
         {
           "id": "3",
           "name": "3",
           "rules": [
-            "stony-point"
+            "line-3"
           ]
         }
       ],
@@ -2994,10 +2995,10 @@
           "id": "2",
           "name": "2",
           "rules": [
-            "lilydale down weekend",
-            "belgrave down weekend",
-            "lilydale up weekday",
-            "belgrave up weekday"
+            "line-10 down weekend",
+            "line-9 down weekend",
+            "line-10 up weekday",
+            "line-9 up weekday"
           ]
         },
         {
@@ -3313,17 +3314,17 @@
           "id": "2",
           "name": "2",
           "rules": [
-            "down lilydale",
-            "down belgrave"
+            "down line-10",
+            "down line-9"
           ]
         },
         {
           "id": "3",
           "name": "3",
           "rules": [
-            "down alamein",
-            "down lilydale weekday",
-            "down belgrave weekday"
+            "down line-8",
+            "down line-10 weekday",
+            "down line-9 weekday"
           ]
         }
       ],
@@ -5199,37 +5200,37 @@
           "id": "1",
           "name": "1",
           "rules": [
-            "up craigieburn",
-            "up upfield"
+            "up line-14",
+            "up line-13"
           ]
         },
         {
           "id": "2",
           "name": "2",
           "rules": [
-            "down craigieburn",
-            "down upfield"
+            "down line-14",
+            "down line-13"
           ]
         },
         {
           "id": "3",
           "name": "3",
           "rules": [
-            "up sunbury"
+            "up line-17"
           ]
         },
         {
           "id": "4",
           "name": "4",
           "rules": [
-            "down sunbury"
+            "down line-17"
           ]
         },
         {
           "id": "5",
           "name": "5",
           "rules": [
-            "up craigieburn",
+            "up line-14",
             "up green"
           ]
         },
@@ -5237,7 +5238,7 @@
           "id": "6",
           "name": "6",
           "rules": [
-            "down craigieburn",
+            "down line-14",
             "down green"
           ]
         }
